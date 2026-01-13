@@ -55,7 +55,7 @@ markdown
 
 ## 🎯 **Current Focus**
 
-```python
+python
 current_focus = {
     "working_on": "Advanced Active Directory attack simulations & custom malware detection rules",
     "learning": "Cloud security (AWS/Azure), container security (Docker/Kubernetes)",
