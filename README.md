@@ -414,6 +414,7 @@ JavaScript      ██████████████░░░░░░   6
 Go              ██████████░░░░░░░░░░   40%
 Bash            ████████░░░░░░░░░░░░   35%
 C++             ██████░░░░░░░░░░░░░░   25%
+```
 <span style="color:#00D4FF;">▌</span> Current Focus
 <table> <tr> <td width="25%" align="center">🎯 Advanced AD Attack Simulations</td> <td width="25%" align="center">☁️ Cloud Security (AWS/Azure)</td> <td width="25%" align="center">🧠 AI/ML in Cybersecurity</td> <td width="25%" align="center">🏆 CTF Competitions</td> </tr> </table>
 <span style="color:#00D4FF;">▌</span> Collaboration Interests
