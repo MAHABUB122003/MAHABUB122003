@@ -378,18 +378,6 @@ Full-stack property management platform with secure authentication and role-base
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MAHABUB122003&theme=radical&hide_border=true&background=0D1117&stroke=00D4FF&ring=FF6B35&fire=FF6B35&currStreakNum=00D4FF&currStreakLabel=00D4FF&sideNums=FFFFFF&sideLabels=FFFFFF" alt="GitHub Streak" width="48%" />
 </div>
 
-<br/>
-
-## <span style="color:#00D4FF;">▌</span> GitHub Analytics
-
-### <span style="color:#FF6B35;">▸</span> GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MAHABUB122003&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MAHABUB122003&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
-</div>
-
-<br/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAHABUB122003&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="40%" />
