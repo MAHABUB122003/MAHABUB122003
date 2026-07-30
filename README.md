@@ -1,265 +1,242 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=800&lines=MD+MAHABUBUR+RAHMAN;Full-Stack+Developer;Cybersecurity+Specialist;Machine+Learning+Engineer;AI+Security+Researcher" alt="Typing SVG" />
-</div>
+# MD MAHABUBUR RAHMAN
 
-<br/>
-
-<div align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/rahmanmdmahabubu.png" alt="TryHackMe Badge" width="450" />
-</div>
-
-<br/>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MAHABUB122003&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/MAHABUB122003?label=Followers&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/MAHABUB122003?label=Stars&style=social" alt="GitHub Stars" />
-  <img src="https://img.shields.io/badge/TryHackMe-Top_1%25-212C42?style=flat&logo=tryhackme&logoColor=white" alt="TryHackMe" />
-</p>
+**Full-Stack Developer | Cybersecurity Specialist | Machine Learning Engineer**
 
 ---
 
-## 👨‍💻 About Me
+## Professional Summary
 
-Innovative **Full-Stack Developer**, **Cybersecurity Specialist**, and **Machine Learning Engineer** with expertise spanning **Red Team (Offensive)** and **Blue Team (Defensive)** security operations. Proficient in building scalable, secure applications using **MERN Stack** and **FastAPI** with **Secure SDLC** principles. Advanced proficiency in **Machine Learning** and **Data Science**, specializing in **supervised learning**, **ensemble methods**, **feature engineering**, and **predictive modeling**. Experienced in vulnerability assessment, penetration testing, SIEM implementation, and digital forensics. Passionate about architecting **AI-powered security solutions** for next-generation threat detection and mitigation.
+Accomplished cybersecurity professional and full-stack engineer with demonstrated expertise in designing and implementing AI-powered security solutions, conducting comprehensive penetration testing, and developing scalable applications utilizing MERN Stack and FastAPI frameworks. Recognized as a top 1% performer on TryHackMe with extensive proficiency in both offensive and defensive security operations. Specializes in machine learning applications for threat detection, malware classification, and predictive security modeling. Proficient in secure software development lifecycle (SDLC) principles with hands-on experience in vulnerability assessment, incident response, and enterprise security architecture.
 
-- 🔭 **Currently working on**: AI-powered security automation & advanced penetration testing frameworks
-- 🌱 **Learning**: Cloud Security (AWS/Azure) & Container Security (Docker/Kubernetes)
-- 🎯 **Researching**: AI/ML in cybersecurity, APT analysis, & zero-day detection
-- 🏆 **CTF Enthusiast**: TryHackMe, HackTheBox, & competitive hacking
-
----
-
-## 🚀 Featured Projects
-
-### 🛡️ MDefender Pro – AI-Powered Malware Detection & WAF
-[![Repository](https://img.shields.io/badge/View_Repository-2b3137?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MAHABUB122003/MDefender-Pro)
-
-AI-powered security platform for WordPress malware detection and web application protection with real-time scanning, automated threat classification, and OWASP Top 10 protection.
-
-**Tech Stack:** Python (FastAPI) • React.js • Node.js • MongoDB • Docker • Scikit-learn
+**Contact Information**
+- Email: rahmanmdmahabubur666@gmail.com
+- Phone: +880 1715 044 575
+- GitHub: [github.com/MAHABUB122003](https://github.com/MAHABUB122003)
+- LinkedIn: [md-mahabubur-rahman-mahabub-41674b33a](https://www.linkedin.com/in/md-mahabubur-rahman-mahabub-41674b33a)
+- Portfolio: [mahabubur-rahman.vercel.app](https://mahabubur-rahman.vercel.app)
+- TryHackMe: [rahmanmdmahabubu](https://tryhackme.com/p/rahmanmdmahabubu) - Top 1% Global Ranking
 
 ---
 
-### 🤖 Machine Learning for Cybersecurity
-[![Repository](https://img.shields.io/badge/View_Repository-2b3137?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MAHABUB122003/Malware-Datasets)
+## Key Achievements
 
-Developed and benchmarked classification models including **XGBoost, CatBoost, LightGBM, Random Forest, SVM, and Logistic Regression** for malware and phishing detection. Applied TF-IDF vectorization and feature engineering for malicious URL/text classification.
-
-**Tech Stack:** Python • Scikit-learn • XGBoost • Pandas • NumPy • Matplotlib • Seaborn
-
----
-
-### 🔍 MDIR – Directory & Content Discovery Tool
-[![Repository](https://img.shields.io/badge/View_Repository-2b3137?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MAHABUB122003/MDIR)
-
-Advanced directory and content discovery tool for penetration testing and bug bounty reconnaissance with high-performance scanning capabilities.
-
-**Tech Stack:** Go • Security Engineering
+- **TryHackMe Global Rankings**: Ranked in top 1% of users globally with demonstrated mastery across multiple security domains
+- **Vulnerability Research**: Discovered and reported multiple CVEs with active vulnerability researcher status
+- **Security Tool Development**: Created and maintained multiple open-source penetration testing and malware detection tools with community adoption
+- **Machine Learning Excellence**: Implemented and benchmarked advanced ML models (XGBoost, CatBoost, LightGBM) for malware and phishing detection with optimized feature engineering
+- **Competitive Security**: Participated in multiple national and international Capture The Flag (CTF) competitions with consistent success
 
 ---
 
-### 🚫 403 Bypass Tool
-[![Repository](https://img.shields.io/badge/View_Repository-2b3137?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MAHABUB122003/403-bypass-tool)
-
-HTTP 403 access control testing tool for discovering bypass techniques during authorized security assessments.
-
-**Tech Stack:** Python • HTTP Protocol • Security Research
-
----
-
-### 🌐 RealIP – Client IP Discovery Tool
-[![Repository](https://img.shields.io/badge/View_Repository-2b3137?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MAHABUB122003/realip)
-
-Client IP discovery and HTTP header analysis tool for security reconnaissance and penetration testing.
-
-**Tech Stack:** JavaScript • Node.js • Express
-
----
-
-### 🏠 DwellSync – Property Management Platform
-[![Repository](https://img.shields.io/badge/View_Repository-2b3137?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MAHABUB122003/DwellSync)
-
-Full-stack property management platform with secure authentication, role-based access control, and modern UI.
-
-**Tech Stack:** Flutter • Node.js • Express • MongoDB
-
----
-
-## 🛡️ Cybersecurity Expertise
+## Core Competencies
 
 ### Offensive Security (Red Team)
-🔴 Penetration Testing 🔴 AD Exploitation
-🔴 Privilege Escalation 🔴 CVE Exploits
-🔴 Pivoting 🔴 RATs & MITM
-🔴 Phishing 🔴 Social Engineering
-🔴 OSINT 🔴 Wireless Security
+Penetration Testing | Active Directory Exploitation | Privilege Escalation | CVE Research & Exploitation | OSINT & Intelligence Gathering | Wireless Security Assessment | Social Engineering | Phishing Campaign Development | Web Application Security | Binary Exploitation
 
-text
-
-**Tools:** Metasploit • Burp Suite • Nmap • Empire • Mimikatz • SQLMap • XSStrike • Nuclei
+**Key Tools**: Metasploit Framework | Burp Suite Professional | Nmap | Empire | Mimikatz | SQLMap | XSStrike | Nuclei
 
 ### Defensive Security (Blue Team)
-🔵 SOC Operations 🔵 SIEM (Splunk, Wazuh)
-🔵 EDR Implementation 🔵 Network Analysis
-🔵 Threat Intelligence 🔵 YARA Rules
-🔵 Digital Forensics 🔵 Malware Analysis
-🔵 Incident Response 🔵 Browser Security
+SOC Operations & Monitoring | SIEM Implementation (Splunk, Wazuh) | EDR Deployment & Management | Threat Intelligence & Analysis | YARA Rules Development | Digital Forensics & Incident Response | Network Traffic Analysis | Malware Analysis | Browser Security | Endpoint Protection
 
-text
-
-**Tools:** Wireshark • Splunk • Wazuh • ELK Stack • Snort • Suricata • Autopsy • Volatility
-
----
-
-## 💻 Technical Stack
+**Key Tools**: Wireshark | Splunk | Wazuh | ELK Stack | Snort | Suricata | Autopsy | Volatility
 
 ### Full-Stack Development
-| Category | Technologies |
-|----------|-------------|
-| **Frontend** | React.js • Tailwind CSS • JavaScript (ES6+) • HTML5 • CSS3 |
-| **Backend** | Node.js • Express.js • FastAPI • Python • REST APIs |
-| **Database** | MongoDB • Mongoose • PostgreSQL • SQLite |
-| **DevOps** | Docker • Git • Linux • Nginx • AWS |
-| **Security** | JWT • Bcrypt • RBAC • OWASP Top 10 |
+**Frontend**: React.js | JavaScript (ES6+) | Tailwind CSS | HTML5 | CSS3 | Component Architecture
+
+**Backend**: Node.js | Express.js | FastAPI | Python | REST API Design | Microservices
+
+**Database**: MongoDB | PostgreSQL | SQLite | Database Optimization | Query Performance Tuning
+
+**DevOps & Infrastructure**: Docker | Kubernetes | Linux Administration | Nginx | AWS (EC2, S3, Lambda) | Git Version Control | CI/CD Pipelines
+
+**Security Implementation**: JWT Authentication | Bcrypt Encryption | Role-Based Access Control (RBAC) | OWASP Top 10 Compliance | Secure SDLC
 
 ### Machine Learning & Data Science
-| Category | Technologies |
-|----------|-------------|
-| **Algorithms** | XGBoost • CatBoost • LightGBM • Random Forest • SVM • Logistic Regression • KNN |
-| **Feature Engineering** | TF-IDF • PCA • Feature Selection • One-Hot Encoding • Standardization |
-| **Model Optimization** | GridSearchCV • RandomizedSearchCV • Cross-Validation • Hyperparameter Tuning |
-| **Evaluation** | Accuracy • Precision • Recall • F1-Score • ROC-AUC • MSE • R-Squared |
-| **Libraries** | Scikit-learn • Pandas • NumPy • Matplotlib • Seaborn • TensorFlow |
+**Algorithms**: XGBoost | CatBoost | LightGBM | Random Forest | Support Vector Machines (SVM) | Logistic Regression | K-Nearest Neighbors
+
+**Feature Engineering**: TF-IDF Vectorization | Principal Component Analysis (PCA) | Feature Selection | One-Hot Encoding | Standardization & Normalization
+
+**Model Optimization**: GridSearchCV | RandomizedSearchCV | Cross-Validation | Hyperparameter Tuning | Ensemble Methods
+
+**Evaluation Metrics**: Accuracy | Precision | Recall | F1-Score | ROC-AUC | Mean Squared Error (MSE) | R-Squared
+
+**Libraries & Frameworks**: Scikit-learn | Pandas | NumPy | Matplotlib | Seaborn | TensorFlow | XGBoost | CatBoost
 
 ---
 
-## 🏆 Certifications & Achievements
+## Featured Projects
 
-<div align="center">
+### MDefender Pro – AI-Powered Malware Detection & Web Application Firewall
+Developed comprehensive security platform integrating real-time malware detection, automated threat classification, and OWASP Top 10 protection. Leveraged machine learning algorithms for intelligent threat assessment and automated response mechanisms.
 
-| Certification | Issuer |
-|---------------|--------|
+**Technology Stack**: Python (FastAPI) | React.js | Node.js | MongoDB | Docker | Scikit-learn | XGBoost
+
+**Key Features**:
+- Real-time WordPress malware scanning and detection
+- Automated threat classification using ML models
+- Web Application Firewall (WAF) with OWASP Top 10 protection
+- Containerized deployment with Docker
+- RESTful API architecture
+
+**Repository**: [github.com/MAHABUB122003/MDefender-Pro](https://github.com/MAHABUB122003/MDefender-Pro)
+
+---
+
+### Machine Learning for Cybersecurity – Malware & Phishing Detection
+Designed and implemented advanced classification models including XGBoost, CatBoost, LightGBM, and Random Forest for malware and phishing detection. Applied TF-IDF vectorization, feature engineering techniques, and comprehensive model evaluation methodologies to achieve superior predictive accuracy.
+
+**Technology Stack**: Python | Scikit-learn | XGBoost | Pandas | NumPy | Matplotlib | Seaborn
+
+**Key Achievements**:
+- Benchmarked multiple ML algorithms for performance comparison
+- Implemented advanced feature engineering techniques
+- Achieved high accuracy rates on malware classification tasks
+- Comprehensive model evaluation and optimization
+
+**Repository**: [github.com/MAHABUB122003/Malware-Datasets](https://github.com/MAHABUB122003/Malware-Datasets)
+
+---
+
+### MDIR – Advanced Directory & Content Discovery Tool
+Engineering high-performance security reconnaissance tool for penetration testing and bug bounty operations. Implemented optimized scanning algorithms for efficient directory enumeration and content discovery with minimal false positives.
+
+**Technology Stack**: Go | Security Engineering
+
+**Key Features**:
+- High-performance concurrent scanning
+- Customizable wordlists and filtering
+- Multiple output formats
+- Optimized for large-scale reconnaissance
+
+**Repository**: [github.com/MAHABUB122003/MDIR](https://github.com/MAHABUB122003/MDIR)
+
+---
+
+### 403 Bypass Tool
+HTTP 403 access control testing tool designed for authorized security assessments and penetration testing engagements. Implements multiple bypass techniques for comprehensive access control validation.
+
+**Technology Stack**: Python | HTTP Protocol Analysis | Security Research
+
+**Repository**: [github.com/MAHABUB122003/403-bypass-tool](https://github.com/MAHABUB122003/403-bypass-tool)
+
+---
+
+### RealIP – Client IP Discovery & HTTP Header Analysis Tool
+Client IP discovery and HTTP header analysis tool for security reconnaissance and penetration testing operations. Extracts comprehensive header information for system fingerprinting.
+
+**Technology Stack**: JavaScript | Node.js | Express
+
+**Repository**: [github.com/MAHABUB122003/realip](https://github.com/MAHABUB122003/realip)
+
+---
+
+### DwellSync – Enterprise Property Management Platform
+Full-stack property management platform demonstrating proficiency in modern architecture patterns, secure authentication, and role-based access control. Implemented responsive UI across multiple platforms.
+
+**Technology Stack**: Flutter | Node.js | Express | MongoDB
+
+**Key Features**:
+- Secure authentication and authorization
+- Role-based access control (RBAC)
+- Responsive cross-platform design
+- RESTful API backend
+- Database optimization for performance
+
+**Repository**: [github.com/MAHABUB122003/DwellSync](https://github.com/MAHABUB122003/DwellSync)
+
+---
+
+## Professional Certifications & Credentials
+
+| Certification | Issuing Organization |
+|---|---|
 | **Web Security Academy Practitioner** | PortSwigger |
-| **Active Directory Pentesting** | CyberSecLabs |
-| **Network Pentesting** | TryHackMe |
-| **Linux/Windows Privilege Escalation** | TryHackMe |
-| **Bug Bounty Hunter** | Active Vulnerability Researcher |
-| **ML Practitioner** | Scikit-learn, XGBoost, CatBoost |
-
-</div>
-
-- 🏅 **TryHackMe**: Top 1% Global Ranking
-- 🐛 **Bug Bounty**: Multiple CVEs Discovered
-- 🏆 **CTF Competitor**: Web, Binary Exploitation, Forensics
-- 📚 **Active Researcher**: Malware Analysis, Threat Intelligence
+| **Active Directory Penetration Testing** | CyberSecLabs |
+| **Network Penetration Testing** | TryHackMe |
+| **Linux & Windows Privilege Escalation** | TryHackMe |
+| **Active Bug Bounty Researcher** | Multiple CVEs Discovered |
+| **ML & Data Science Practitioner** | Scikit-learn, XGBoost, CatBoost |
 
 ---
 
-## 📊 GitHub Analytics
+## Technical Proficiencies
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MAHABUB122003&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MAHABUB122003&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
-</div>
+### Programming Languages
+Python, JavaScript (ES6+), Go, Bash, C++, SQL, Java
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAHABUB122003&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="40%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=MAHABUB122003&theme=radical&no-frame=true&row=2&column=4" alt="GitHub Trophies" width="55%" />
-</div>
+### Web Technologies & Frameworks
+React.js | Node.js | Express.js | FastAPI | HTML5 | CSS3 | Tailwind CSS | REST APIs | WebSocket
 
-### 📈 Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MAHABUB122003&theme=react-dark&hide_border=true)
+### Database Management Systems
+MongoDB | PostgreSQL | SQLite | Database Design | Query Optimization | Indexing Strategies
 
----
+### DevOps & Cloud Technologies
+Docker | Kubernetes | Linux Administration | Nginx | Apache | AWS (EC2, S3, Lambda, RDS) | Git | GitLab CI/CD
 
-## 🎯 Education
+### Security & Penetration Testing
+Metasploit Framework | Burp Suite | Nmap | Wireshark | Splunk | Wazuh | ELK Stack | YARA | Volatility | Autopsy
 
-**B.Sc. in Computer Science & Engineering** | Expected 2026
-*Shanto Mariam University of Creative Technology, Dhaka*
-
-**Relevant Coursework:** Network Security • Cryptography • Secure SDLC • Digital Forensics • Machine Learning • Data Science • Statistics
+### Machine Learning & Data Science
+Scikit-learn | XGBoost | CatBoost | LightGBM | TensorFlow | Keras | Pandas | NumPy | Matplotlib | Seaborn | Jupyter Notebook
 
 ---
 
-## 📫 Connect With Me
+## Education
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/md-mahabubur-rahman-mahabub-41674b33a">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/MAHABUB122003">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://tryhackme.com/p/rahmanmdmahabubu">
-    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/share/16kgir5Xuo/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="mailto:rahmanmdmahabubur666@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="tel:01715044575">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</div>
+**Bachelor of Science in Computer Science & Engineering**
 
-<div align="center">
-  <a href="https://mahabubur-rahman.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</div>
+Shanto Mariam University of Creative Technology, Dhaka | Expected Graduation: 2026
+
+**Relevant Coursework**: Network Security | Cryptography | Secure Software Development Lifecycle | Digital Forensics | Machine Learning | Data Science | Statistical Analysis | Database Security | Discrete Mathematics | Algorithms & Data Structures
 
 ---
 
-## 📊 Weekly Development Breakdown
+## Professional Development & Research
 
-```text
-Python          ████████████████████░   85% 
-JavaScript      ██████████████░░░░░░   60%
-Go              ██████████░░░░░░░░░░   40%
-Bash            ████████░░░░░░░░░░░░   35%
-C++             ██████░░░░░░░░░░░░░░   25%
-⚡ Fun Facts
-🎮 CTF enthusiast - I solve security challenges daily
+### Current Focus Areas
+- AI-powered security automation and threat detection systems
+- Advanced persistent threat (APT) analysis and detection methodologies
+- Zero-day vulnerability research and exploitation analysis
+- Cloud-native security architecture and best practices
 
-🔍 Love reverse engineering malware and finding vulnerabilities
+### Active Development Initiatives
+- Cloud security implementation (AWS and Azure certification preparation)
+- Container security and orchestration (Docker and Kubernetes security hardening)
+- Kernel exploit research and development
+- Custom malware detection rule development and optimization
 
-🌐 Believe in ethical hacking for a safer digital world
-
-📚 Constantly learning new security techniques and technologies
-
-🏆 Competed in multiple national and international CTF competitions
-
-<div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" /> </div>
-<div align="center"> <i>"Security is not a product, but a process." - Bruce Schneier</i> <br/><br/> <img src="https://img.shields.io/badge/Made_with_❤️_by_Mahabub-ff69b4?style=for-the-badge" /> <br/> <img src="https://img.shields.io/badge/🚀_Building_Security_Tools_for_a_Safer_Internet-00A0D1?style=for-the-badge" /> </div>
-🛠️ Quick Commands
-bash
-# Clone a project
-git clone https://github.com/MAHABUB122003/MDefender-Pro.git
-
-# Connect with me
-echo "Let's secure the digital world together!"
-<!-- ## 🎯 Current Focus - 🔭 Active Directory attack simulations & custom malware detection rules - 🌱 Cloud security (AWS/Azure), container security (Docker/Kubernetes) - 📚 AI/ML in cybersecurity, advanced persistent threat (APT) analysis - 🏆 HackTheBox, TryHackMe, and CTF competitions --><!-- ## 🤝 Collaboration & Open Source - 👯 Open to collaborate on **security tools development** - 🤔 Looking for help with **kernel exploit development** - 💬 Ask me about: **penetration testing, malware analysis, secure coding** - 📫 How to reach me: [rahmanmdmahabubur666@gmail.com](mailto:rahmanmdmahabubur666@gmail.com) -->
-text
+### Research Interests
+- Machine learning applications in cybersecurity
+- Behavioral analysis for anomaly detection
+- Malware analysis automation and classification
+- Secure coding practices and vulnerability prevention
+- Threat intelligence and strategic security planning
 
 ---
 
-## Setup Instructions
+## GitHub Analytics
 
-1. **Create Repository**: Create a new repository named `MAHABUB122003` (exactly your username)
+- **Profile**: [github.com/MAHABUB122003](https://github.com/MAHABUB122003)
+- **TryHackMe Badge**: Top 1% Global Ranking
+- **Active Contributions**: Continuous development across security tools and full-stack applications
+- **Open Source**: Multiple tools and projects available for community use
 
-2. **Add README.md**: Copy and paste the entire code above into the README.md file
+---
 
-3. **Customize**: You can modify:
-   - Email address
-   - Phone number
-   - Social media links
-   - Add or remove projects
+## Professional Philosophy
 
-4. **Profile Image**: If you want a profile image in the typing SVG, it's not supported by default. You can add your profile image separately.
+*"Security is not a product, but a process." - Bruce Schneier*
 
-5. **Commit & Push**: Commit and push to your repository
+Committed to developing secure, scalable, and innovative solutions that protect organizations from evolving cyber threats. Believe in the importance of ethical hacking and responsible vulnerability disclosure for advancing cybersecurity practices globally. Dedicated to continuous learning and staying current with emerging security trends, technologies, and threats.
 
-The README will automatically display on your GitHub profile page! 🎉
+---
+
+## Collaboration & Opportunities
+
+- **Open to**: Collaborating on security tools development, security consulting, and research initiatives
+- **Seeking**: Opportunities in advanced cybersecurity roles, security research, and AI/ML in cybersecurity
+- **Contact**: rahmanmdmahabubur666@gmail.com | +880 1715 044 575
+
+---
+
+**Last Updated**: July 2026
