@@ -371,14 +371,25 @@ Full-stack property management platform with secure authentication and role-base
 
 ## <span style="color:#00D4FF;">▌</span> GitHub Analytics
 
-### <span style="color:#FF6B35;">▸</span> GitHub Stats & Streak
+### <span style="color:#FF6B35;">▸</span> GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MAHABUB122003&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D4FF&icon_color=FF6B35&text_color=FFFFFF" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MAHABUB122003&theme=radical&hide_border=true&background=0D1117&stroke=00D4FF&ring=FF6B35&fire=FF6B35&currStreakNum=00D4FF&currStreakLabel=00D4FF&sideNums=FFFFFF&sideLabels=FFFFFF" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MAHABUB122003&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MAHABUB122003&theme=radical" alt="GitHub Streak" width="48%" />
 </div>
 
 <br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAHABUB122003&layout=compact&theme=radical" alt="Top Languages" width="40%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MAHABUB122003&theme=radical&no-frame=true" alt="GitHub Trophies" width="55%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MAHABUB122003&theme=react-dark" alt="GitHub Activity Graph" width="95%" />
+</div>
 
 ### <span style="color:#FF6B35;">▸</span> Top Languages & GitHub Trophies
 
