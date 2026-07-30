@@ -14,7 +14,6 @@
   <img src="https://komarev.com/ghpvc/?username=MAHABUB122003&label=Profile%20Views&color=00D4FF&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/MAHABUB122003?label=Followers&style=social" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/MAHABUB122003?label=Stars&style=social" alt="GitHub Stars" />
-  <img src="https://img.shields.io/badge/TryHackMe-Top_1%25-212C42?style=flat&logo=tryhackme&logoColor=white" alt="TryHackMe" />
 </p>
 
 ---
