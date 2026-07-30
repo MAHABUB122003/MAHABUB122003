@@ -381,7 +381,6 @@ Full-stack property management platform with secure authentication and role-base
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAHABUB122003&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="40%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MAHABUB122003&theme=radical" alt="Repos per Language" width="40%" />
 </div>
 
 <br/>
@@ -392,11 +391,6 @@ Full-stack property management platform with secure authentication and role-base
 
 <br/>
 
-### <span style="color:#FF6B35;">▸</span> Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MAHABUB122003&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" width="95%" />
-</div>
 
 ### <span style="color:#FF6B35;">▸</span> Contribution Graph
 
