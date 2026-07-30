@@ -1,12 +1,3 @@
-<!--
-███╗   ███╗██████╗  █████╗ ██╗  ██╗ █████╗ ██████╗ ██╗   ██╗██████╗ 
-████╗ ████║██╔══██╗██╔══██╗██║  ██║██╔══██╗██╔══██╗██║   ██║██╔══██╗
-██╔████╔██║██████╔╝███████║███████║███████║██████╔╝██║   ██║██████╔╝
-██║╚██╔╝██║██╔══██╗██╔══██║██╔══██║██╔══██║██╔══██╗██║   ██║██╔══██╗
-██║ ╚═╝ ██║██████╔╝██║  ██║██║  ██║██║  ██║██████╔╝╚██████╔╝██████╔╝
-╚═╝     ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝  ╚═════╝ ╚═════╝ 
--->
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=500&color=00D4FF&center=true&vCenter=true&width=800&lines=MD+MAHABUBUR+RAHMAN;Full-Stack+Developer;Cybersecurity+Specialist;Machine+Learning+Engineer" alt="Typing SVG" />
 </div>
@@ -430,6 +421,6 @@ Malware analysis and threat intelligence research
 <div align="center"> <a href="https://www.linkedin.com/in/md-mahabubur-rahman-mahabub-41674b33a"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://www.facebook.com/share/16kgir5Xuo/"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /> </a> <a href="https://tryhackme.com/p/rahmanmdmahabubu"> <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" /> </a> <a href="https://github.com/MAHABUB122003"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://mahabubur-rahman.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /> </a> <a href="mailto:rahmanmdmahabubur666@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="tel:01715044575"> <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> </a> </div>
 <span style="color:#00D4FF;">▌</span> Professional Quote
 <div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" /> </div>
-<div align="center"> <img src="https://img.shields.io/badge/Made_with_❤️_by_Mahabub-ff69b4?style=for-the-badge" /> <br/> <img src="https://img.shields.io/badge/Building_Security_Tools_for_a_Safer_Internet-00D4FF?style=for-the-badge" /> </div>
 <div align="center"> <i>"Security is not a product, but a process." - Bruce Schneier</i> </div>
-<div align="center"> <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%" /> </div><!-- ██████╗ ██╗ ██╗██████╗ ███████╗██████╗ ██╗ ██╗██╗██╗ ███████╗██████╗ ██╔══██╗╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗██║ ██║██║██║ ██╔════╝██╔══██╗ ██████╔╝ ╚████╔╝ ██████╔╝█████╗ ██████╔╝██║ ██║██║██║ █████╗ ██████╔╝ ██╔══██╗ ╚██╔╝ ██╔══██╗██╔══╝ ██╔══██╗██║ ██║██║██║ ██╔══╝ ██╔══██╗ ██████╔╝ ██║ ██████╔╝███████╗██║ ██║╚██████╔╝██║███████╗███████╗██║ ██║ ╚═════╝ ╚═╝ ╚═════╝ ╚══════╝╚═╝ ╚═╝ ╚═════╝ ╚═╝╚══════╝╚══════╝╚═╝ ╚═╝ -->
+<div align="center"> <img src="https://img.shields.io/badge/Made_with_❤️_by_Mahabub-ff69b4?style=for-the-badge" /> <br/> <img src="https://img.shields.io/badge/Building_Security_Tools_for_a_Safer_Internet-00D4FF?style=for-the-badge" /> </div>
+<div align="center"> <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%" /> </div> ```
