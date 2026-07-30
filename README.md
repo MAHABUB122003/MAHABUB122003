@@ -380,72 +380,33 @@ Full-stack property management platform with secure authentication and role-base
 
 ## <span style="color:#00D4FF;">▌</span> GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MAHABUB122003&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MAHABUB122003&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
-</div>
+### <span style="color:#FF6B35;">▸</span> GitHub Stats & Streak
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAHABUB122003&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="40%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=MAHABUB122003&theme=radical&no-frame=true&row=2&column=4" alt="GitHub Trophies" width="55%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MAHABUB122003&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D4FF&icon_color=FF6B35&text_color=FFFFFF" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MAHABUB122003&theme=radical&hide_border=true&background=0D1117&stroke=00D4FF&ring=FF6B35&fire=FF6B35&currStreakNum=00D4FF&currStreakLabel=00D4FF&sideNums=FFFFFF&sideLabels=FFFFFF" alt="GitHub Streak" width="48%" />
 </div>
 
-### <span style="color:#00D4FF;">▸</span> Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MAHABUB122003&theme=react-dark&hide_border=true)
+<br/>
 
----
-
-## <span style="color:#00D4FF;">▌</span> Current Focus
-
-<table>
-<tr>
-<td width="25%">🎯 Advanced AD Attack Simulations</td>
-<td width="25%">☁️ Cloud Security (AWS/Azure)</td>
-<td width="25%">🧠 AI/ML in Cybersecurity</td>
-<td width="25%">🏆 CTF Competitions</td>
-</tr>
-</table>
-
----
-
-## <span style="color:#00D4FF;">▌</span> Collaboration Interests
-
-- Security tools development and automation
-- Kernel exploit development and vulnerability research
-- Penetration testing methodologies and secure coding practices
-- Malware analysis and threat intelligence research
-
----
-
-## <span style="color:#00D4FF;">▌</span> Connect With Me
+### <span style="color:#FF6B35;">▸</span> Top Languages & GitHub Trophies
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/md-mahabubur-rahman-mahabub-41674b33a">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/share/16kgir5Xuo/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://tryhackme.com/p/rahmanmdmahabubu">
-    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
-  </a>
-  <a href="https://github.com/MAHABUB122003">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://mahabubur-rahman.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="mailto:rahmanmdmahabubur666@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="tel:01715044575">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAHABUB122003&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" alt="Top Languages" width="40%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MAHABUB122003&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15&bg_color=0D1117" alt="GitHub Trophies" width="55%" />
 </div>
 
----
+<br/>
 
-## <span style="color:#00D4FF;">▌</span> Development Activity
+### <span style="color:#FF6B35;">▸</span> Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MAHABUB122003&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D4FF&line=FF6B35&point=FFFFFF&area=true&area_color=00D4FF" alt="GitHub Activity Graph" width="95%" />
+</div>
+
+<br/>
+
+### <span style="color:#FF6B35;">▸</span> Weekly Development Breakdown
 
 ```text
 Python          ████████████████████░   85% 
@@ -453,3 +414,21 @@ JavaScript      ██████████████░░░░░░   6
 Go              ██████████░░░░░░░░░░   40%
 Bash            ████████░░░░░░░░░░░░   35%
 C++             ██████░░░░░░░░░░░░░░   25%
+<span style="color:#00D4FF;">▌</span> Current Focus
+<table> <tr> <td width="25%" align="center">🎯 Advanced AD Attack Simulations</td> <td width="25%" align="center">☁️ Cloud Security (AWS/Azure)</td> <td width="25%" align="center">🧠 AI/ML in Cybersecurity</td> <td width="25%" align="center">🏆 CTF Competitions</td> </tr> </table>
+<span style="color:#00D4FF;">▌</span> Collaboration Interests
+Security tools development and automation
+
+Kernel exploit development and vulnerability research
+
+Penetration testing methodologies and secure coding practices
+
+Malware analysis and threat intelligence research
+
+<span style="color:#00D4FF;">▌</span> Connect With Me
+<div align="center"> <a href="https://www.linkedin.com/in/md-mahabubur-rahman-mahabub-41674b33a"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://www.facebook.com/share/16kgir5Xuo/"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /> </a> <a href="https://tryhackme.com/p/rahmanmdmahabubu"> <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" /> </a> <a href="https://github.com/MAHABUB122003"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://mahabubur-rahman.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /> </a> <a href="mailto:rahmanmdmahabubur666@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="tel:01715044575"> <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> </a> </div>
+<span style="color:#00D4FF;">▌</span> Professional Quote
+<div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" /> </div>
+<div align="center"> <img src="https://img.shields.io/badge/Made_with_❤️_by_Mahabub-ff69b4?style=for-the-badge" /> <br/> <img src="https://img.shields.io/badge/Building_Security_Tools_for_a_Safer_Internet-00D4FF?style=for-the-badge" /> </div>
+<div align="center"> <i>"Security is not a product, but a process." - Bruce Schneier</i> </div>
+<div align="center"> <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%" /> </div><!-- ██████╗ ██╗ ██╗██████╗ ███████╗██████╗ ██╗ ██╗██╗██╗ ███████╗██████╗ ██╔══██╗╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗██║ ██║██║██║ ██╔════╝██╔══██╗ ██████╔╝ ╚████╔╝ ██████╔╝█████╗ ██████╔╝██║ ██║██║██║ █████╗ ██████╔╝ ██╔══██╗ ╚██╔╝ ██╔══██╗██╔══╝ ██╔══██╗██║ ██║██║██║ ██╔══╝ ██╔══██╗ ██████╔╝ ██║ ██████╔╝███████╗██║ ██║╚██████╔╝██║███████╗███████╗██║ ██║ ╚═════╝ ╚═╝ ╚═════╝ ╚══════╝╚═╝ ╚═╝ ╚═════╝ ╚═╝╚══════╝╚══════╝╚═╝ ╚═╝ -->
