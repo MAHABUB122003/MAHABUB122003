@@ -1,9 +1,19 @@
 <div align="center" style="background:linear-gradient(135deg,#0D1117 0%,#0D1117 60%,#001a2e 100%);padding:28px 20px 20px;border-radius:16px;border:1px solid #21262d;margin-bottom:16px">
 
   <!-- NAME -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=38&duration=3000&pause=500&color=00D4FF&center=true&vCenter=true&width=820&lines=MD+MAHABUBUR+RAHMAN;Full-Stack+Developer;Cybersecurity+Specialist;Machine+Learning+Engineer" alt="Typing SVG" width="820"/>
+  <div style="font-family:'Segoe UI',sans-serif;font-size:46px;font-weight:800;letter-spacing:2px;line-height:1.2">
+    <span style="color:#00D4FF">MD</span>&nbsp;<span style="color:#FFFFFF">MAHABUBUR</span>&nbsp;<span style="color:#FF6B35">RAHMAN</span>
+  </div>
 
-  <div style="margin-top:14px;font-family:'Segoe UI',sans-serif;font-size:16px;color:#8b949e;letter-spacing:3px;font-weight:600">FULL-STACK DEVELOPER · CYBERSECURITY SPECIALIST · ML ENGINEER</div>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=500&color=00D4FF&center=true&vCenter=true&width=820&lines=Full-Stack+Developer;Cybersecurity+Specialist;Machine+Learning+Engineer;AI-Powered+Security+Solutions" alt="Typing SVG" width="820"/>
+
+  <div style="margin-top:10px;font-family:'Segoe UI',sans-serif;font-size:15px;letter-spacing:3px;font-weight:600">
+    <span style="color:#FFFFFF">FULL-STACK</span>
+    <span style="color:#8b949e">·</span>
+    <span style="color:#00D4FF">CYBERSECURITY</span>
+    <span style="color:#8b949e">·</span>
+    <span style="color:#FF6B35">MACHINE LEARNING</span>
+  </div>
 
   <!-- CONTACT BAR -->
   <div style="margin-top:16px;display:flex;justify-content:center;flex-wrap:wrap;gap:8px">
@@ -73,7 +83,23 @@
           <img src="https://img.shields.io/badge/Metasploit-239120?style=flat-square&logo=metasploit&logoColor=white"/>&nbsp;
           <img src="https://img.shields.io/badge/Nmap-259dff?style=flat-square&logo=nmap&logoColor=white"/>&nbsp;
           <img src="https://img.shields.io/badge/BurpSuite-FF6633?style=flat-square&logo=burpsuite&logoColor=white"/>&nbsp;
-          <img src="https://img.shields.io/badge/Nuclei-FF6B35?style=flat-square&logo=cloud&logoColor=white"/>
+          <img src="https://img.shields.io/badge/OWASP%20ZAP-006494?style=flat-square&logo=owasp&logoColor=white"/>&nbsp;
+          <img src="https://img.shields.io/badge/Nuclei-FF6B35?style=flat-square&logo=cloud&logoColor=white"/>&nbsp;
+          <img src="https://img.shields.io/badge/SQLMap-red?style=flat-square&logo=sql&logoColor=white"/>&nbsp;
+          <img src="https://img.shields.io/badge/Cobalt%20Strike-5A2E91?style=flat-square&logo=metasploit&logoColor=white"/>&nbsp;
+          <img src="https://img.shields.io/badge/Responder-00A86B?style=flat-square&logo=security&logoColor=white"/>&nbsp;
+          <img src="https://img.shields.io/badge/Mimikatz-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>&nbsp;
+          <img src="https://img.shields.io/badge/Empire-1A1A2E?style=flat-square&logo=security&logoColor=white"/>&nbsp;
+          <img src="https://img.shields.io/badge/Hashcat-111111?style=flat-square&logo=hashcat&logoColor=white"/>&nbsp;
+          <img src="https://img.shields.io/badge/John%20the%20Ripper-000000?style=flat-square&logo=security&logoColor=white"/>&nbsp;
+          <img src="https://img.shields.io/badge/Hydra-111111?style=flat-square&logo=security&logoColor=white"/>&nbsp;
+          <img src="https://img.shields.io/badge/ffuf-FF4D00?style=flat-square&logo=python&logoColor=white"/>&nbsp;
+          <img src="https://img.shields.io/badge/gobuster-3776AB?style=flat-square&logo=go&logoColor=white"/>&nbsp;
+          <img src="https://img.shields.io/badge/Amass-00A0D1?style=flat-square&logo=security&logoColor=white"/>&nbsp;
+          <img src="https://img.shields.io/badge/subfinder-F26E21?style=flat-square&logo=go&logoColor=white"/>&nbsp;
+          <img src="https://img.shields.io/badge/httpx-7A7A7A?style=flat-square&logo=go&logoColor=white"/>&nbsp;
+          <img src="https://img.shields.io/badge/Nikto-FF6633?style=flat-square&logo=security&logoColor=white"/>&nbsp;
+          <img src="https://img.shields.io/badge/dirb-2F2F2F?style=flat-square&logo=linux&logoColor=white"/>
         </div>
       </td>
       <td width="50%" valign="top" style="background:#0d1117;border:1px solid #21262d;border-radius:10px;padding:14px">
@@ -87,8 +113,24 @@
         <div style="margin-top:10px">
           <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>&nbsp;
           <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white"/>&nbsp;
+          <img src="https://img.shields.io/badge/Wazuh-00b0f0?style=flat-square&logo=security&logoColor=white"/>&nbsp;
+          <img src="https://img.shields.io/badge/ELK%20Stack-005571?style=flat-square&logo=elasticstack&logoColor=white"/>&nbsp;
           <img src="https://img.shields.io/badge/Snort-red?style=flat-square&logo=shield&logoColor=white"/>&nbsp;
-          <img src="https://img.shields.io/badge/Ghidra-8700ff?style=flat-square&logo=ghidra&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Suricata-FF7A00?style=flat-square&logo=shield&logoColor=white"/>&nbsp;
+          <img src="https://img.shields.io/badge/Zeek-000000?style=flat-square&logo=security&logoColor=white"/>&nbsp;
+          <img src="https://img.shields.io/badge/YARA-CC0000?style=flat-square&logo=security&logoColor=white"/>&nbsp;
+          <img src="https://img.shields.io/badge/OpenVAS-006494?style=flat-square&logo=security&logoColor=white"/>&nbsp;
+          <img src="https://img.shields.io/badge/Ghidra-8700ff?style=flat-square&logo=ghidra&logoColor=white"/>&nbsp;
+          <img src="https://img.shields.io/badge/IDA%20Pro-505050?style=flat-square&logo=security&logoColor=white"/>&nbsp;
+          <img src="https://img.shields.io/badge/x64dbg-1E90FF?style=flat-square&logo=security&logoColor=white"/>&nbsp;
+          <img src="https://img.shields.io/badge/Autopsy-866636?style=flat-square&logo=security&logoColor=white"/>&nbsp;
+          <img src="https://img.shields.io/badge/Volatility-FF8C00?style=flat-square&logo=security&logoColor=white"/>&nbsp;
+          <img src="https://img.shields.io/badge/Velociraptor-2E8B57?style=flat-square&logo=security&logoColor=white"/>&nbsp;
+          <img src="https://img.shields.io/badge/Cuckoo%20Sandbox-2F4F4F?style=flat-square&logo=security&logoColor=white"/>&nbsp;
+          <img src="https://img.shields.io/badge/TCPDump-5A5A5A?style=flat-square&logo=linux&logoColor=white"/>&nbsp;
+          <img src="https://img.shields.io/badge/FTK-1A1A1A?style=flat-square&logo=security&logoColor=white"/>&nbsp;
+          <img src="https://img.shields.io/badge/Brim-6A1B9A?style=flat-square&logo=security&logoColor=white"/>&nbsp;
+          <img src="https://img.shields.io/badge/Osquery-1B1B1B?style=flat-square&logo=security&logoColor=white"/>
         </div>
       </td>
     </tr>
@@ -131,6 +173,93 @@
       </td>
     </tr>
   </table>
+</div>
+
+<!-- ============ SECURITY TOOLS ============ -->
+<div style="background:#161b22;border:1px solid #21262d;border-radius:12px;padding:18px 22px;margin-bottom:16px">
+
+  <span style="font-family:'Segoe UI',sans-serif;font-weight:700;font-size:20px;color:#00D4FF;text-transform:uppercase;letter-spacing:2px">Security Toolkit</span>
+
+  <div style="background:#0d1117;border:1px solid #21262d;border-radius:10px;padding:14px;margin-top:10px">
+    <div style="font-family:'Segoe UI',sans-serif;font-weight:700;font-size:13px;color:#ff6b6b;text-transform:uppercase;letter-spacing:1px">Reconnaissance &amp; Enumeration</div>
+    <div style="margin-top:8px;line-height:2.4">
+      <img src="https://img.shields.io/badge/Nmap-259dff?style=flat-square&logo=nmap&logoColor=white"/>&nbsp;
+      <img src="https://img.shields.io/badge/Amass-00A0D1?style=flat-square&logo=security&logoColor=white"/>&nbsp;
+      <img src="https://img.shields.io/badge/subfinder-F26E21?style=flat-square&logo=go&logoColor=white"/>&nbsp;
+      <img src="https://img.shields.io/badge/httpx-7A7A7A?style=flat-square&logo=go&logoColor=white"/>&nbsp;
+      <img src="https://img.shields.io/badge/Masscan-00C853?style=flat-square&logo=security&logoColor=white"/>&nbsp;
+      <img src="https://img.shields.io/badge/RustScan-333333?style=flat-square&logo=rust&logoColor=white"/>&nbsp;
+      <img src="https://img.shields.io/badge/waybackurls-1A1A1A?style=flat-square&logo=security&logoColor=white"/>&nbsp;
+      <img src="https://img.shields.io/badge/gau-FF6B35?style=flat-square&logo=go&logoColor=white"/>&nbsp;
+      <img src="https://img.shields.io/badge/Wappalyzer-4B8BBE?style=flat-square&logo=wappalyzer&logoColor=white"/>&nbsp;
+      <img src="https://img.shields.io/badge/WhatWeb-375EAB?style=flat-square&logo=security&logoColor=white"/>&nbsp;
+      <img src="https://img.shields.io/badge/dnsrecon-5A5A5A?style=flat-square&logo=linux&logoColor=white"/>&nbsp;
+      <img src="https://img.shields.io/badge/crt.sh-2F4F4F?style=flat-square&logo=security&logoColor=white"/>
+    </div>
+  </div>
+
+  <div style="background:#0d1117;border:1px solid #21262d;border-radius:10px;padding:14px;margin-top:10px">
+    <div style="font-family:'Segoe UI',sans-serif;font-weight:700;font-size:13px;color:#ff6b6b;text-transform:uppercase;letter-spacing:1px">Exploitation &amp; Post-Exploitation</div>
+    <div style="margin-top:8px;line-height:2.4">
+      <img src="https://img.shields.io/badge/Metasploit-239120?style=flat-square&logo=metasploit&logoColor=white"/>&nbsp;
+      <img src="https://img.shields.io/badge/Cobalt%20Strike-5A2E91?style=flat-square&logo=metasploit&logoColor=white"/>&nbsp;
+      <img src="https://img.shields.io/badge/BurpSuite-FF6633?style=flat-square&logo=burpsuite&logoColor=white"/>&nbsp;
+      <img src="https://img.shields.io/badge/Empire-1A1A2E?style=flat-square&logo=security&logoColor=white"/>&nbsp;
+      <img src="https://img.shields.io/badge/Responder-00A86B?style=flat-square&logo=security&logoColor=white"/>&nbsp;
+      <img src="https://img.shields.io/badge/Mimikatz-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>&nbsp;
+      <img src="https://img.shields.io/badge/Hashcat-111111?style=flat-square&logo=hashcat&logoColor=white"/>&nbsp;
+      <img src="https://img.shields.io/badge/John%20the%20Ripper-000000?style=flat-square&logo=security&logoColor=white"/>&nbsp;
+      <img src="https://img.shields.io/badge/Hydra-111111?style=flat-square&logo=security&logoColor=white"/>&nbsp;
+      <img src="https://img.shields.io/badge/ExploitDB-FF4D00?style=flat-square&logo=exploitdb&logoColor=white"/>&nbsp;
+      <img src="https://img.shields.io/badge/SearchSploit-DC143C?style=flat-square&logo=security&logoColor=white"/>&nbsp;
+      <img src="https://img.shields.io/badge/payloadsallthethings-00A86B?style=flat-square&logo=github&logoColor=white"/>
+    </div>
+  </div>
+
+  <div style="background:#0d1117;border:1px solid #21262d;border-radius:10px;padding:14px;margin-top:10px">
+    <div style="font-family:'Segoe UI',sans-serif;font-weight:700;font-size:13px;color:#00a8ff;text-transform:uppercase;letter-spacing:1px">Web Application Security</div>
+    <div style="margin-top:8px;line-height:2.4">
+      <img src="https://img.shields.io/badge/BurpSuite-FF6633?style=flat-square&logo=burpsuite&logoColor=white"/>&nbsp;
+      <img src="https://img.shields.io/badge/OWASP%20ZAP-006494?style=flat-square&logo=owasp&logoColor=white"/>&nbsp;
+      <img src="https://img.shields.io/badge/SQLMap-red?style=flat-square&logo=sql&logoColor=white"/>&nbsp;
+      <img src="https://img.shields.io/badge/Nuclei-FF6B35?style=flat-square&logo=cloud&logoColor=white"/>&nbsp;
+      <img src="https://img.shields.io/badge/xsstrike-FF0000?style=flat-square&logo=css3&logoColor=white"/>&nbsp;
+      <img src="https://img.shields.io/badge/ffuf-FF4D00?style=flat-square&logo=python&logoColor=white"/>&nbsp;
+      <img src="https://img.shields.io/badge/gobuster-3776AB?style=flat-square&logo=go&logoColor=white"/>&nbsp;
+      <img src="https://img.shields.io/badge/dirb-2F2F2F?style=flat-square&logo=linux&logoColor=white"/>&nbsp;
+      <img src="https://img.shields.io/badge/WPScan-0073AA?style=flat-square&logo=wordpress&logoColor=white"/>&nbsp;
+      <img src="https://img.shields.io/badge/Nikto-FF6633?style=flat-square&logo=security&logoColor=white"/>&nbsp;
+      <img src="https://img.shields.io/badge/Arjun-7A1FA2?style=flat-square&logo=python&logoColor=white"/>&nbsp;
+      <img src="https://img.shields.io/badge/ParamSpider-00A86B?style=flat-square&logo=python&logoColor=white"/>&nbsp;
+      <img src="https://img.shields.io/badge/jaeles-00d4ff?style=flat-square&logo=go&logoColor=white"/>&nbsp;
+      <img src="https://img.shields.io/badge/commix-00b0f0?style=flat-square&logo=security&logoColor=white"/>
+    </div>
+  </div>
+
+  <div style="background:#0d1117;border:1px solid #21262d;border-radius:10px;padding:14px;margin-top:10px">
+    <div style="font-family:'Segoe UI',sans-serif;font-weight:700;font-size:13px;color:#00a8ff;text-transform:uppercase;letter-spacing:1px">Network Defense, SIEM &amp; Forensics</div>
+    <div style="margin-top:8px;line-height:2.4">
+      <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>&nbsp;
+      <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white"/>&nbsp;
+      <img src="https://img.shields.io/badge/Wazuh-00b0f0?style=flat-square&logo=security&logoColor=white"/>&nbsp;
+      <img src="https://img.shields.io/badge/ELK%20Stack-005571?style=flat-square&logo=elasticstack&logoColor=white"/>&nbsp;
+      <img src="https://img.shields.io/badge/Snort-red?style=flat-square&logo=shield&logoColor=white"/>&nbsp;
+      <img src="https://img.shields.io/badge/Suricata-FF7A00?style=flat-square&logo=shield&logoColor=white"/>&nbsp;
+      <img src="https://img.shields.io/badge/Zeek-000000?style=flat-square&logo=security&logoColor=white"/>&nbsp;
+      <img src="https://img.shields.io/badge/YARA-CC0000?style=flat-square&logo=security&logoColor=white"/>&nbsp;
+      <img src="https://img.shields.io/badge/OpenVAS-006494?style=flat-square&logo=security&logoColor=white"/>&nbsp;
+      <img src="https://img.shields.io/badge/Osquery-1B1B1B?style=flat-square&logo=security&logoColor=white"/>&nbsp;
+      <img src="https://img.shields.io/badge/Velociraptor-2E8B57?style=flat-square&logo=security&logoColor=white"/>&nbsp;
+      <img src="https://img.shields.io/badge/Autopsy-866636?style=flat-square&logo=security&logoColor=white"/>&nbsp;
+      <img src="https://img.shields.io/badge/Volatility-FF8C00?style=flat-square&logo=security&logoColor=white"/>&nbsp;
+      <img src="https://img.shields.io/badge/Ghidra-8700ff?style=flat-square&logo=ghidra&logoColor=white"/>&nbsp;
+      <img src="https://img.shields.io/badge/IDA%20Pro-505050?style=flat-square&logo=security&logoColor=white"/>&nbsp;
+      <img src="https://img.shields.io/badge/x64dbg-1E90FF?style=flat-square&logo=security&logoColor=white"/>&nbsp;
+      <img src="https://img.shields.io/badge/Cuckoo%20Sandbox-2F4F4F?style=flat-square&logo=security&logoColor=white"/>&nbsp;
+      <img src="https://img.shields.io/badge/TCPDump-5A5A5A?style=flat-square&logo=linux&logoColor=white"/>&nbsp;
+      <img src="https://img.shields.io/badge/Brim-6A1B9A?style=flat-square&logo=security&logoColor=white"/>
+    </div>
+  </div>
 </div>
 
 <!-- ============ PROJECTS ============ -->
