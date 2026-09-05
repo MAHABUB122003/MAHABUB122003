@@ -1,9 +1,15 @@
 <div align="center" style="background:linear-gradient(135deg,#0D1117 0%,#0D1117 60%,#001a2e 100%);padding:28px 20px 20px;border-radius:16px;border:1px solid #21262d;margin-bottom:16px">
 
   <!-- NAME -->
-  <div style="font-family:'Segoe UI',sans-serif;font-size:46px;font-weight:800;letter-spacing:2px;line-height:1.2">
-    <span style="color:#00D4FF">MD</span>&nbsp;<span style="color:#FFFFFF">MAHABUBUR</span>&nbsp;<span style="color:#FF6B35">RAHMAN</span>
-  </div>
+<p align="center">
+  <svg width="700" height="80" viewBox="0 0 700 80" xmlns="http://www.w3.org/2000/svg">
+    <text x="0" y="55" font-family="'Segoe UI', Arial, sans-serif" font-size="46" font-weight="800" letter-spacing="2">
+      <tspan fill="#00D4FF">MD</tspan>
+      <tspan fill="#FFFFFF" dx="15">MAHABUBUR</tspan>
+      <tspan fill="#FF6B35" dx="15">RAHMAN</tspan>
+    </text>
+  </svg>
+</p>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=500&color=00D4FF&center=true&vCenter=true&width=820&lines=Full-Stack+Developer;Cybersecurity+Specialist;Machine+Learning+Engineer;AI-Powered+Security+Solutions" alt="Typing SVG" width="820"/>
 
