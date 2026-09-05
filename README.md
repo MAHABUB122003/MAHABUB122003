@@ -347,39 +347,58 @@
 
   <span style="font-family:'Segoe UI',sans-serif;font-weight:700;font-size:20px;color:#00D4FF;text-transform:uppercase;letter-spacing:2px">GitHub Analytics</span>
 
-  <div align="center" style="margin-top:12px">
-    <img src="https://github-readme-stats.vercel.app/api?username=MAHABUB122003&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D4FF&icon_color=FF6B35&text_color=FFFFFF" alt="GitHub Stats" width="48%"/>&nbsp;
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MAHABUB122003&theme=radical&hide_border=true&background=0D1117&stroke=00D4FF&ring=FF6B35&fire=FF6B35&currStreakNum=00D4FF&currStreakLabel=00D4FF&sideNums=FFFFFF&sideLabels=FFFFFF" alt="GitHub Streak" width="48%"/>
-  </div>
+  <table style="width:100%;border:none;border-collapse:separate;border-spacing:10px 10px;margin-top:10px">
+    <tr>
+      <td align="center" width="50%" valign="top" style="background:#0d1117;border:1px solid #21262d;border-radius:10px;padding:16px">
+        <div style="font-family:'Segoe UI',sans-serif;font-weight:600;font-size:12px;color:#8b949e;letter-spacing:1px;margin-bottom:10px">GITHUB STATS</div>
+        <img src="https://github-readme-stats.vercel.app/api?username=MAHABUB122003&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D4FF&icon_color=FF6B35&text_color=FFFFFF" alt="GitHub Stats" width="100%"/>
+      </td>
+      <td align="center" width="50%" valign="top" style="background:#0d1117;border:1px solid #21262d;border-radius:10px;padding:16px">
+        <div style="font-family:'Segoe UI',sans-serif;font-weight:600;font-size:12px;color:#8b949e;letter-spacing:1px;margin-bottom:10px">GITHUB STREAK</div>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=MAHABUB122003&theme=radical&hide_border=true&background=0D1117&stroke=00D4FF&ring=FF6B35&fire=FF6B35&currStreakNum=00D4FF&currStreakLabel=00D4FF&sideNums=FFFFFF&sideLabels=FFFFFF" alt="GitHub Streak" width="100%"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%" valign="top" style="background:#0d1117;border:1px solid #21262d;border-radius:10px;padding:16px">
+        <div style="font-family:'Segoe UI',sans-serif;font-weight:600;font-size:12px;color:#8b949e;letter-spacing:1px;margin-bottom:10px">TOP LANGUAGES</div>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAHABUB122003&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF" alt="Top Languages" width="100%"/>
+      </td>
+      <td align="center" width="50%" valign="top" style="background:#0d1117;border:1px solid #21262d;border-radius:10px;padding:16px">
+        <div style="font-family:'Segoe UI',sans-serif;font-weight:600;font-size:12px;color:#8b949e;letter-spacing:1px;margin-bottom:10px">GITHUB TROPHIES</div>
+        <img src="https://github-profile-trophy.vercel.app/?username=MAHABUB122003&theme=radical&row=2&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%"/>
+      </td>
+    </tr>
+  </table>
 
-  <div align="center" style="margin-top:10px">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAHABUB122003&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF" alt="Top Languages" width="38%"/>&nbsp;
-    <img src="https://github-profile-trophy.vercel.app/?username=MAHABUB122003&theme=radical&row=2&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies" width="58%"/>
-  </div>
-
-  <div align="center" style="margin-top:10px">
+  <div style="background:#0d1117;border:1px solid #21262d;border-radius:10px;padding:16px;margin-top:10px">
+    <div style="font-family:'Segoe UI',sans-serif;font-weight:600;font-size:12px;color:#8b949e;letter-spacing:1px;margin-bottom:10px">GITHUB ACTIVITY</div>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=MAHABUB122003&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D4FF&line=FF6B35&point=FFFFFF&area=true&area_color=00D4FF" alt="GitHub Activity Graph" width="100%"/>
   </div>
 </div>
 
 <!-- ============ CONNECT ============ -->
-<div align="center" style="background:linear-gradient(135deg,#0D1117 0%,#001a2e 100%);border:1px solid #21262d;border-radius:16px;padding:24px 20px">
+<div align="center" style="background:linear-gradient(135deg,#0D1117 0%,#001a2e 100%);border:1px solid #21262d;border-radius:16px;padding:28px 20px">
 
-  <span style="font-family:'Segoe UI',sans-serif;font-weight:700;font-size:20px;color:#00D4FF;text-transform:uppercase;letter-spacing:2px">Connect With Me</span>
+  <span style="font-family:'Segoe UI',sans-serif;font-weight:700;font-size:22px;color:#00D4FF;text-transform:uppercase;letter-spacing:3px">Connect With Me</span>
 
-  <div style="margin-top:16px;font-family:'Segoe UI',sans-serif;font-size:14px;color:#8b949e;font-style:italic">
-    "Security is not a product, but a process." — Bruce Schneier
-  </div>
+  <div style="width:60px;height:3px;background:linear-gradient(90deg,#00D4FF,#FF6B35);border-radius:2px;margin:12px auto 0"></div>
 
-  <div style="margin-top:16px;display:flex;justify-content:center;flex-wrap:wrap;gap:8px">
-    <a href="https://www.linkedin.com/in/md-mahabubur-rahman-mahabub-41674b33a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://github.com/MAHABUB122003" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-    <a href="https://mahabubur.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-    <a href="mailto:rahmanmdmahabubur666@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <div style="margin-top:20px">
+    <a href="https://www.linkedin.com/in/md-mahabubur-rahman-mahabub-41674b33a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+    <a href="https://github.com/MAHABUB122003" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;
+    <a href="https://mahabubur.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>&nbsp;
+    <a href="mailto:rahmanmdmahabubur666@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
     <a href="https://tryhackme.com/p/rahmanmdmahabubu" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/></a>
   </div>
 
-  <div style="margin-top:18px;font-family:'Segoe UI',sans-serif;font-size:12px;color:#00d4ff;letter-spacing:2px;font-weight:600">
-    CRAFTED BY MD MAHABUBUR RAHMAN
+  <div style="margin-top:22px;font-family:'Segoe UI',sans-serif;font-size:13px;color:#8b949e;font-style:italic">
+    "Security is not a product, but a process." — Bruce Schneier
+  </div>
+
+  <div style="margin-top:16px;width:100%;border-top:1px solid #21262d;padding-top:16px">
+    <div style="font-family:'Segoe UI',sans-serif;font-size:12px;color:#8b949e;letter-spacing:1px">CRAFTED BY</div>
+    <div style="font-family:'Segoe UI',sans-serif;font-size:15px;color:#ffffff;font-weight:700;letter-spacing:2px;margin-top:4px">
+      MD <span style="color:#00D4FF">MAHABUBUR</span> <span style="color:#FF6B35">RAHMAN</span>
+    </div>
   </div>
 </div>
