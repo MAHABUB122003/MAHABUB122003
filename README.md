@@ -1,201 +1,337 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=38&duration=3000&pause=500&color=00D4FF&center=true&vCenter=true&width=820&lines=MD+MAHABUBUR+RAHMAN;Full-Stack+Developer;Cybersecurity+Specialist;Machine+Learning+Engineer" alt="Typing SVG" />
+<div align="center" style="background:linear-gradient(135deg,#0D1117 0%,#0D1117 60%,#001a2e 100%);padding:28px 20px 20px;border-radius:16px;border:1px solid #21262d;margin-bottom:16px">
+
+  <!-- NAME -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=38&duration=3000&pause=500&color=00D4FF&center=true&vCenter=true&width=820&lines=MD+MAHABUBUR+RAHMAN;Full-Stack+Developer;Cybersecurity+Specialist;Machine+Learning+Engineer" alt="Typing SVG" width="820"/>
+
+  <div style="margin-top:14px;font-family:'Segoe UI',sans-serif;font-size:16px;color:#8b949e;letter-spacing:3px;font-weight:600">FULL-STACK DEVELOPER · CYBERSECURITY SPECIALIST · ML ENGINEER</div>
+
+  <!-- CONTACT BAR -->
+  <div style="margin-top:16px;display:flex;justify-content:center;flex-wrap:wrap;gap:8px">
+    <a href="https://mahabubur.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+    <a href="https://www.linkedin.com/in/md-mahabubur-rahman-mahabub-41674b33a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://github.com/MAHABUB122003" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+    <a href="mailto:rahmanmdmahabubur666@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="https://tryhackme.com/p/rahmanmdmahabubu" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/></a>
+  </div>
+
+  <!-- STATS STRIP -->
+  <div style="margin-top:16px">
+    <img src="https://komarev.com/ghpvc/?username=MAHABUB122003&label=PROFILE+VIEWS&color=00D4FF&style=flat-square" alt="Profile Views"/>
+    <img src="https://img.shields.io/github/followers/MAHABUB122003?label=FOLLOWERS&style=flat-square&color=00D4FF" alt="Followers"/>
+    <img src="https://img.shields.io/github/stars/MAHABUB122003?label=STARS&style=flat-square&color=00D4FF" alt="Stars"/>
+  </div>
 </div>
 
-<p align="center">
-  <a href="https://mahabubur.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/md-mahabubur-rahman-mahabub-41674b33a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/MAHABUB122003" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:rahmanmdmahabubur666@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://tryhackme.com/p/rahmanmdmahabubu" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
-</p>
+<!-- ============ PROFILE ============ -->
+<div style="background:#161b22;border:1px solid #21262d;border-radius:12px;padding:18px 22px;margin-bottom:16px">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MAHABUB122003&label=Profile%20Views&color=00D4FF&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/MAHABUB122003?style=flat-square&color=0D1117&label=Followers" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/MAHABUB122003?style=flat-square&color=0D1117&label=Stars" alt="GitHub Stars" />
-</p>
+  <span style="font-family:'Segoe UI',sans-serif;font-weight:700;font-size:20px;color:#00D4FF;text-transform:uppercase;letter-spacing:2px">Profile</span>
 
----
+  <p style="font-family:'Segoe UI',sans-serif;font-size:15px;color:#c9d1d9;line-height:1.8;margin-top:8px">
+  Innovative <b style="color:#ffffff">Full-Stack Developer</b>, <b style="color:#ffffff">Cybersecurity Specialist</b>, and <b style="color:#ffffff">Machine Learning Engineer</b> with expertise spanning <b style="color:#00D4FF">Red Team</b> and <b style="color:#00D4FF">Blue Team</b> security operations. Building scalable, secure applications on the <b style="color:#ffffff">MERN Stack</b>, <b style="color:#ffffff">FastAPI</b>, and <b style="color:#ffffff">Flutter</b> with <b style="color:#ffffff">Secure SDLC</b> principles. Specializing in <b style="color:#ffffff">ML-based threat detection</b>, <b style="color:#ffffff">penetration testing</b>, <b style="color:#ffffff">SIEM implementation</b>, and <b style="color:#ffffff">digital forensics</b>.
+  </p>
 
-## About Me
-
-Innovative **Full-Stack Developer**, **Cybersecurity Specialist**, and **Machine Learning Engineer** with expertise spanning **Red Team (Offensive)** and **Blue Team (Defensive)** security operations. I build scalable, secure applications using the **MERN Stack**, **FastAPI**, and **Flutter** — engineered with **Secure SDLC** principles. I specialize in **ML-based threat detection**, **vulnerability assessment**, **penetration testing**, **SIEM implementation**, and **digital forensics**.
-
-**Mission:** Architect AI-powered security solutions for next-generation threat detection and mitigation.
-
-| Currently Working On | Currently Learning | Competing In | Ask Me About |
-|---|---|---|---|
-| AI-driven WAF & Malware Detection | Advanced AD Exploitation, Cloud Security | CTFs & Bug Bounty Programs | Pentesting, MERN Stack, ML for Security |
-
----
-
-## Cybersecurity Expertise
-
-### Offensive Security — Red Team
-
-| Capability | Details |
-|---|---|
-| **Penetration Testing** | White/Black/Grey Box, Network, Host, Active Directory |
-| **Exploitation** | CVE Research, Kernel Exploits, Privilege Escalation, Pivoting |
-| **Web Security** | OWASP Top 10, Bug Bounty Hunting, CTF Challenges, WAF Bypass |
-| **Social Engineering** | Phishing Campaigns, OSINT |
-
-![Metasploit](https://img.shields.io/badge/Metasploit-239120?style=flat-square&logo=metasploit&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-259dff?style=flat-square&logo=nmap&logoColor=white)
-![BurpSuite](https://img.shields.io/badge/BurpSuite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-![Nuclei](https://img.shields.io/badge/Nuclei-FF6B35?style=flat-square&logo=cloud&logoColor=white)
-
-### Defensive Security — Blue Team
-
-| Capability | Details |
-|---|---|
-| **SIEM / SOC Operations** | Splunk, Wazuh, ELK Stack, Graylog |
-| **Network Defense** | Snort, Suricata, Wireshark, Zeek |
-| **Threat Intelligence** | YARA Rules, IOC Analysis, CTI Frameworks |
-| **Digital Forensics** | Autopsy, Volatility, FTK, Memory & Disk Analysis |
-| **Malware Analysis** | Static/Dynamic, Ghidra, IDA Pro, Cuckoo Sandbox |
-
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
-![Snort](https://img.shields.io/badge/Snort-red?style=flat-square&logo=shield&logoColor=white)
-![Ghidra](https://img.shields.io/badge/Ghidra-8700ff?style=flat-square&logo=ghidra&logoColor=white)
-
-### Machine Learning for Security
-
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6B6B?style=flat-square&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![CatBoost](https://img.shields.io/badge/CatBoost-yellow?style=flat-square&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-00A86B?style=flat-square&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-**Specialties:** Supervised Learning - Ensemble Methods (Bagging/Boosting/Stacking) - Feature Engineering (TF-IDF, PCA) - Hyperparameter Tuning (GridSearchCV) - Malware/Phishing Detection - Anomaly Detection
-
----
-
-## Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,go,cpp,bash,powershell" alt="Languages" />
-  <br/>
-  <em>Python - JavaScript - Go - C/C++ - Bash - PowerShell</em>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,mongodb,postgres,docker,git" alt="Development" />
-  <br/>
-  <em>React - Node.js - Express - FastAPI - MongoDB - PostgreSQL - Docker - Git</em>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tailwind,html,css,flutter,dart,linux" alt="Frontend & OS" />
-  <br/>
-  <em>Tailwind CSS - HTML5 - CSS3 - Flutter - Dart - Linux</em>
-</p>
-
----
-
-## Featured Projects
-
-| | |
-|---|---|
-| **MDefender Pro** — *AI-Powered Malware Detection & WAF*<br/>AI security platform for WordPress malware detection & web application protection. Real-time scanning, automated threat classification, OWASP Top 10 defense.<br/><sub>FastAPI - React - Node.js - MongoDB - Docker</sub><br/>[![View](https://img.shields.io/badge/View%20Repository-2b3137?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MAHABUB122003/Mdefender-Pro) | **PentestingAI** — *AI-Powered Penetration Testing Automation*<br/>Full-stack security platform with 27+ scanning engines: recon, port scan, subdomain, directory, API testing, 403 bypass + AI-driven reporting.<br/><sub>React 19 - FastAPI - MongoDB - Celery - Redis</sub><br/>[![View](https://img.shields.io/badge/View%20Repository-2b3137?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MAHABUB122003/PentestingAPI) |
-| **PhishGuard** — *ML Phishing URL Detection*<br/>Real-time phishing detection using a Random Forest trained on 144K+ URLs with 45+ engineered features and explainable risk scoring.<br/><sub>FastAPI - Scikit-learn - React 19</sub><br/>[![View](https://img.shields.io/badge/View%20Repository-2b3137?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MAHABUB122003/PhishGuard) | **JusticeView BD** — *Judicial Transparency Platform*<br/>Case tracking from arrest to verdict with AI face-recognition search + SecureWAF, an ML firewall trained on 60K attack samples.<br/><sub>React 19 - Express 5 - MongoDB - Flask - face-api.js</sub><br/>[![View](https://img.shields.io/badge/View%20Repository-2b3137?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MAHABUB122003/JusticeView_BD) |
-| **ReadVerse** — *Full-Stack MERN Book Store*<br/>Production e-commerce platform with 76-book catalog, live search, cart, checkout, order tracking, Firebase auth & real admin dashboard.<br/><sub>React 18 - Redux - Node.js - Express - MongoDB</sub><br/>[![View](https://img.shields.io/badge/View%20Repository-2b3137?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MAHABUB122003/Book_Store_Project) | **DwellSync** — *Property Management System*<br/>Cross-platform property management for landlords & tenants - leases, rent payments, maintenance, analytics dashboard with secure JWT + RBAC.<br/><sub>Flutter - Dart - Node.js - Express - MongoDB</sub><br/>[![View](https://img.shields.io/badge/View%20Repository-2b3137?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MAHABUB122003/DwellSync) |
-
-### Security Tools & Research
-
-**MDIR** — *Directory & Endpoint Discovery*
-[![View](https://img.shields.io/badge/View%20Repository-2b3137?style=flat-square&logo=github&logoColor=white)](https://github.com/MAHABUB122003/MDIR)
-High-speed async directory enumeration with multi-threaded scanning and HTML/JSON/TXT reports. *Python - Kali Linux*
-
-**M403** — *Access Control Testing*
-[![View](https://img.shields.io/badge/View%20Repository-2b3137?style=flat-square&logo=github&logoColor=white)](https://github.com/MAHABUB122003/403-bypass-tool)
-Advanced HTTP 403 bypass framework - header, path, encoding & cache techniques with Burp proxy support. *Python*
-
-**RealIP** — *Infrastructure Intelligence*
-[![View](https://img.shields.io/badge/View%20Repository-2b3137?style=flat-square&logo=github&logoColor=white)](https://github.com/MAHABUB122003/RealIP)
-Domain intelligence & CDN origin-finding: subdomain enumeration, DNS resolution, service discovery, infrastructure mapping. *Python*
-
-**Cyber Security Payloads** — *2026 Payload Arsenal*
-[![View](https://img.shields.io/badge/View%20Repository-2b3137?style=flat-square&logo=github&logoColor=white)](https://github.com/MAHABUB122003/Cyber_Security_Payload)
-30+ vulnerability classes with tested payloads - XSS, SQLi, SSRF, SSTI, JWT attacks, WAF bypass + A-to-Z manual test playbook.
-
-**WordPress Malware Removal** — *Infection Response Toolkit*
-[![View](https://img.shields.io/badge/View%20Repository-2b3137?style=flat-square&logo=github&logoColor=white)](https://github.com/MAHABUB122003/Wordpress-Malware-Removal)
-Backdoor analysis, .htaccess hardening, security plugin stack, and WordPress incident-response playbook.
-
-**ML for Cybersecurity** — *Threat Detection Models*
-Benchmarked XGBoost, LightGBM, Random Forest & SVM models for malware & phishing detection with TF-IDF feature engineering. *Scikit-learn - Pandas*
-
----
-
-## Certifications
-
-<div align="center">
-  <img src="https://img.shields.io/badge/CyberSecLabs-Active%20Directory%20Pentesting-00A0D1?style=for-the-badge&logo=security&logoColor=white" />
-  <img src="https://img.shields.io/badge/PortSwigger-Web%20Security%20Practitioner-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/TryHackMe-Network%20Pentesting-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bug%20Bounty-Active%20Researcher-FF6B00?style=for-the-badge&logo=bugcrowd&logoColor=white" />
+  <!-- FOCUS CARDS -->
+  <table style="width:100%;border:none;margin-top:6px">
+    <tr>
+      <td align="center" style="background:#0d1117;border:1px solid #21262d;border-radius:8px;padding:10px 6px;width:25%">
+        <div style="font-size:11px;color:#8b949e;font-weight:600;letter-spacing:1px">CURRENTLY</div>
+        <div style="font-family:'Segoe UI',sans-serif;font-size:13px;color:#00D4FF;font-weight:600;margin-top:4px">AI Security Solutions</div>
+      </td>
+      <td align="center" style="background:#0d1117;border:1px solid #21262d;border-radius:8px;padding:10px 6px;width:25%">
+        <div style="font-size:11px;color:#8b949e;font-weight:600;letter-spacing:1px">FOCUSING ON</div>
+        <div style="font-family:'Segoe UI',sans-serif;font-size:13px;color:#00D4FF;font-weight:600;margin-top:4px">AD Attacks · Cloud Sec</div>
+      </td>
+      <td align="center" style="background:#0d1117;border:1px solid #21262d;border-radius:8px;padding:10px 6px;width:25%">
+        <div style="font-size:11px;color:#8b949e;font-weight:600;letter-spacing:1px">COMPETING IN</div>
+        <div style="font-family:'Segoe UI',sans-serif;font-size:13px;color:#00D4FF;font-weight:600;margin-top:4px">CTFs · Bug Bounty</div>
+      </td>
+      <td align="center" style="background:#0d1117;border:1px solid #21262d;border-radius:8px;padding:10px 6px;width:25%">
+        <div style="font-size:11px;color:#8b949e;font-weight:600;letter-spacing:1px">ASK ME ABOUT</div>
+        <div style="font-family:'Segoe UI',sans-serif;font-size:13px;color:#00D4FF;font-weight:600;margin-top:4px">Pentest · MERN · ML Sec</div>
+      </td>
+    </tr>
+  </table>
 </div>
 
-- **Active Directory Penetration Testing** - CyberSecLabs
-- **Web Security Academy Practitioner** - PortSwigger
-- **Linux/Windows Privilege Escalation** - TryHackMe
-- **Active Vulnerability Researcher** - Bug Bounty Programs
-- **ML Practitioner** - Scikit-learn, XGBoost, CatBoost, LightGBM
-- **CTF Competitor** - Web, Binary Exploitation, Forensics
+<!-- ============ EXPERTISE ============ -->
+<div style="background:#161b22;border:1px solid #21262d;border-radius:12px;padding:18px 22px;margin-bottom:16px">
 
----
+  <span style="font-family:'Segoe UI',sans-serif;font-weight:700;font-size:20px;color:#00D4FF;text-transform:uppercase;letter-spacing:2px">Security Expertise</span>
 
-## Education
+  <table style="width:100%;border:none;border-collapse:separate;border-spacing:10px 10px;margin-top:8px">
+    <tr>
+      <td width="50%" valign="top" style="background:#0d1117;border:1px solid #21262d;border-radius:10px;padding:14px">
+        <div style="font-family:'Segoe UI',sans-serif;font-weight:700;font-size:15px;color:#ff6b6b;text-transform:uppercase;letter-spacing:1px">Red Team · Offensive</div>
+        <ul style="font-family:'Segoe UI',sans-serif;font-size:13px;color:#c9d1d9;line-height:1.9;margin:10px 0 0 18px;padding:0">
+          <li>Penetration Testing — White / Black / Grey Box</li>
+          <li>Active Directory Exploitation &amp; Privilege Escalation</li>
+          <li>Web Security — OWASP Top 10 · WAF Bypass</li>
+          <li>CVE Research · Pivoting · Social Engineering</li>
+        </ul>
+        <div style="margin-top:10px">
+          <img src="https://img.shields.io/badge/Metasploit-239120?style=flat-square&logo=metasploit&logoColor=white"/>&nbsp;
+          <img src="https://img.shields.io/badge/Nmap-259dff?style=flat-square&logo=nmap&logoColor=white"/>&nbsp;
+          <img src="https://img.shields.io/badge/BurpSuite-FF6633?style=flat-square&logo=burpsuite&logoColor=white"/>&nbsp;
+          <img src="https://img.shields.io/badge/Nuclei-FF6B35?style=flat-square&logo=cloud&logoColor=white"/>
+        </div>
+      </td>
+      <td width="50%" valign="top" style="background:#0d1117;border:1px solid #21262d;border-radius:10px;padding:14px">
+        <div style="font-family:'Segoe UI',sans-serif;font-weight:700;font-size:15px;color:#00a8ff;text-transform:uppercase;letter-spacing:1px">Blue Team · Defensive</div>
+        <ul style="font-family:'Segoe UI',sans-serif;font-size:13px;color:#c9d1d9;line-height:1.9;margin:10px 0 0 18px;padding:0">
+          <li>SIEM / SOC — Splunk, Wazuh, ELK Stack</li>
+          <li>Network Defense — Snort, Suricata, Wireshark</li>
+          <li>Threat Intelligence — YARA · IOC Analysis</li>
+          <li>Forensics — Autopsy · Volatility · Malware Analysis</li>
+        </ul>
+        <div style="margin-top:10px">
+          <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>&nbsp;
+          <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white"/>&nbsp;
+          <img src="https://img.shields.io/badge/Snort-red?style=flat-square&logo=shield&logoColor=white"/>&nbsp;
+          <img src="https://img.shields.io/badge/Ghidra-8700ff?style=flat-square&logo=ghidra&logoColor=white"/>
+        </div>
+      </td>
+    </tr>
+  </table>
 
-**B.Sc. in Computer Science & Engineering** — *Expected 2026*
-Shanto Mariam University of Creative Technology, Dhaka
-
-**Relevant Coursework:** Network Security - Cryptography - Secure SDLC - Digital Forensics - Machine Learning - Data Science - Statistics
-
----
-
-## GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MAHABUB122003&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D4FF&icon_color=FF6B35&text_color=FFFFFF" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MAHABUB122003&theme=radical&hide_border=true&background=0D1117&stroke=00D4FF&ring=FF6B35&fire=FF6B35&currStreakNum=00D4FF&currStreakLabel=00D4FF&sideNums=FFFFFF&sideLabels=FFFFFF" alt="GitHub Streak" width="48%" />
+  <div style="background:#0d1117;border:1px solid #21262d;border-radius:10px;padding:14px;margin-top:10px">
+    <div style="font-family:'Segoe UI',sans-serif;font-weight:700;font-size:15px;color:#00d4ff;text-transform:uppercase;letter-spacing:1px">Machine Learning for Security</div>
+    <div style="margin-top:10px">
+      <img src="https://img.shields.io/badge/XGBoost-FF6B6B?style=flat-square&logoColor=white"/>&nbsp;
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>&nbsp;
+      <img src="https://img.shields.io/badge/CatBoost-yellow?style=flat-square&logoColor=white"/>&nbsp;
+      <img src="https://img.shields.io/badge/LightGBM-00A86B?style=flat-square&logoColor=white"/>&nbsp;
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>&nbsp;
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+    </div>
+    <p style="font-family:'Segoe UI',sans-serif;font-size:13px;color:#c9d1d9;line-height:1.8;margin:10px 0 0">
+      <b style="color:#00d4ff">Specialties:</b> Supervised Learning · Ensemble Methods · Feature Engineering (TF-IDF, PCA) · Hyperparameter Tuning · Malware &amp; Phishing Detection · Anomaly Detection
+    </p>
+  </div>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAHABUB122003&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF" alt="Top Languages" width="38%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=MAHABUB122003&theme=radical&row=2&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies" width="58%" />
+<!-- ============ TECH STACK ============ -->
+<div style="background:#161b22;border:1px solid #21262d;border-radius:12px;padding:18px 22px;margin-bottom:16px">
+
+  <span style="font-family:'Segoe UI',sans-serif;font-weight:700;font-size:20px;color:#00D4FF;text-transform:uppercase;letter-spacing:2px">Tech Stack</span>
+
+  <table style="width:100%;border:none;margin-top:8px">
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://skillicons.dev/icons?i=python,javascript,go,cpp,bash,powershell&theme=dark" alt="Languages" width="230"/>
+        <div style="font-family:'Segoe UI',sans-serif;font-size:12px;color:#8b949e;margin-top:8px">LANGUAGES</div>
+      </td>
+      <td align="center" width="34%">
+        <img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,mongodb,postgres&theme=dark" alt="Web Development" width="230"/>
+        <div style="font-family:'Segoe UI',sans-serif;font-size:12px;color:#8b949e;margin-top:8px">FRAMEWORKS &amp; DATABASES</div>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://skillicons.dev/icons?i=tailwind,docker,flutter,dart,linux,git&theme=dark" alt="Tools" width="230"/>
+        <div style="font-family:'Segoe UI',sans-serif;font-size:12px;color:#8b949e;margin-top:8px">TOOLS &amp; PLATFORMS</div>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MAHABUB122003&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D4FF&line=FF6B35&point=FFFFFF&area=true&area_color=00D4FF" alt="GitHub Activity Graph" width="95%" />
+<!-- ============ PROJECTS ============ -->
+<div style="background:#161b22;border:1px solid #21262d;border-radius:12px;padding:18px 22px;margin-bottom:16px">
+
+  <span style="font-family:'Segoe UI',sans-serif;font-weight:700;font-size:20px;color:#00D4FF;text-transform:uppercase;letter-spacing:2px">Featured Projects</span>
+
+  <!-- ROW 1 -->
+  <table style="width:100%;border:none;border-collapse:separate;border-spacing:10px 10px;margin-top:8px">
+    <tr>
+      <td width="50%" valign="top" style="background:#0d1117;border:1px solid #21262d;border-radius:10px;padding:16px">
+        <div style="font-family:'Segoe UI',sans-serif;font-weight:700;font-size:16px;color:#ffffff">MDefender Pro</div>
+        <div style="font-family:'Segoe UI',sans-serif;font-style:italic;font-size:12px;color:#00d4ff;margin-top:2px">AI-Powered Malware Detection &amp; WAF</div>
+        <p style="font-family:'Segoe UI',sans-serif;font-size:13px;color:#c9d1d9;line-height:1.7;margin:8px 0">AI security platform for WordPress malware detection and web application protection with real-time scanning, automated threat classification, and OWASP Top 10 defense.</p>
+        <div style="font-family:'Segoe UI',sans-serif;font-size:12px;color:#8b949e;margin-bottom:10px"><b style="color:#00d4ff">Stack:</b> FastAPI · React · Node.js · MongoDB · Docker</div>
+        <a href="https://github.com/MAHABUB122003/Mdefender-Pro"><img src="https://img.shields.io/badge/View%20Repository-2b3137?style=for-the-badge&logo=github&logoColor=white"/></a>
+      </td>
+      <td width="50%" valign="top" style="background:#0d1117;border:1px solid #21262d;border-radius:10px;padding:16px">
+        <div style="font-family:'Segoe UI',sans-serif;font-weight:700;font-size:16px;color:#ffffff">PentestingAI</div>
+        <div style="font-family:'Segoe UI',sans-serif;font-style:italic;font-size:12px;color:#00d4ff;margin-top:2px">AI-Powered Penetration Testing</div>
+        <p style="font-family:'Segoe UI',sans-serif;font-size:13px;color:#c9d1d9;line-height:1.7;margin:8px 0">Full-stack security platform with 27+ scanning engines covering reconnaissance, vulnerability scanning, API testing, 403 bypass, and AI-driven reporting.</p>
+        <div style="font-family:'Segoe UI',sans-serif;font-size:12px;color:#8b949e;margin-bottom:10px"><b style="color:#00d4ff">Stack:</b> React 19 · FastAPI · MongoDB · Celery · Redis</div>
+        <a href="https://github.com/MAHABUB122003/PentestingAPI"><img src="https://img.shields.io/badge/View%20Repository-2b3137?style=for-the-badge&logo=github&logoColor=white"/></a>
+      </td>
+    </tr>
+  </table>
+
+  <!-- ROW 2 -->
+  <table style="width:100%;border:none;border-collapse:separate;border-spacing:10px 10px;margin-top:0">
+    <tr>
+      <td width="50%" valign="top" style="background:#0d1117;border:1px solid #21262d;border-radius:10px;padding:16px">
+        <div style="font-family:'Segoe UI',sans-serif;font-weight:700;font-size:16px;color:#ffffff">PhishGuard</div>
+        <div style="font-family:'Segoe UI',sans-serif;font-style:italic;font-size:12px;color:#00d4ff;margin-top:2px">ML Phishing URL Detection</div>
+        <p style="font-family:'Segoe UI',sans-serif;font-size:13px;color:#c9d1d9;line-height:1.7;margin:8px 0">Real-time phishing detection using a Random Forest model trained on 144K+ URLs with 45+ engineered features and explainable risk scoring.</p>
+        <div style="font-family:'Segoe UI',sans-serif;font-size:12px;color:#8b949e;margin-bottom:10px"><b style="color:#00d4ff">Stack:</b> FastAPI · Scikit-learn · React 19 · Tailwind</div>
+        <a href="https://github.com/MAHABUB122003/PhishGuard"><img src="https://img.shields.io/badge/View%20Repository-2b3137?style=for-the-badge&logo=github&logoColor=white"/></a>
+      </td>
+      <td width="50%" valign="top" style="background:#0d1117;border:1px solid #21262d;border-radius:10px;padding:16px">
+        <div style="font-family:'Segoe UI',sans-serif;font-weight:700;font-size:16px;color:#ffffff">JusticeView BD</div>
+        <div style="font-family:'Segoe UI',sans-serif;font-style:italic;font-size:12px;color:#00d4ff;margin-top:2px">Judicial Transparency Platform</div>
+        <p style="font-family:'Segoe UI',sans-serif;font-size:13px;color:#c9d1d9;line-height:1.7;margin:8px 0">Case tracking from arrest to verdict with AI face-recognition search, plus SecureWAF — an ML firewall trained on 60K attack samples.</p>
+        <div style="font-family:'Segoe UI',sans-serif;font-size:12px;color:#8b949e;margin-bottom:10px"><b style="color:#00d4ff">Stack:</b> React 19 · Express 5 · MongoDB · Flask</div>
+        <a href="https://github.com/MAHABUB122003/JusticeView_BD"><img src="https://img.shields.io/badge/View%20Repository-2b3137?style=for-the-badge&logo=github&logoColor=white"/></a>
+      </td>
+    </tr>
+  </table>
+
+  <!-- ROW 3 -->
+  <table style="width:100%;border:none;border-collapse:separate;border-spacing:10px 10px;margin-top:0">
+    <tr>
+      <td width="50%" valign="top" style="background:#0d1117;border:1px solid #21262d;border-radius:10px;padding:16px">
+        <div style="font-family:'Segoe UI',sans-serif;font-weight:700;font-size:16px;color:#ffffff">ReadVerse</div>
+        <div style="font-family:'Segoe UI',sans-serif;font-style:italic;font-size:12px;color:#00d4ff;margin-top:2px">Full-Stack MERN Book Store</div>
+        <p style="font-family:'Segoe UI',sans-serif;font-size:13px;color:#c9d1d9;line-height:1.7;margin:8px 0">Production e-commerce platform with a 76-book catalog, live search, cart, checkout, order tracking, Firebase auth, and a real admin dashboard.</p>
+        <div style="font-family:'Segoe UI',sans-serif;font-size:12px;color:#8b949e;margin-bottom:10px"><b style="color:#00d4ff">Stack:</b> React 18 · Redux · Node.js · Express · MongoDB</div>
+        <a href="https://github.com/MAHABUB122003/Book_Store_Project"><img src="https://img.shields.io/badge/View%20Repository-2b3137?style=for-the-badge&logo=github&logoColor=white"/></a>
+      </td>
+      <td width="50%" valign="top" style="background:#0d1117;border:1px solid #21262d;border-radius:10px;padding:16px">
+        <div style="font-family:'Segoe UI',sans-serif;font-weight:700;font-size:16px;color:#ffffff">DwellSync</div>
+        <div style="font-family:'Segoe UI',sans-serif;font-style:italic;font-size:12px;color:#00d4ff;margin-top:2px">Property Management System</div>
+        <p style="font-family:'Segoe UI',sans-serif;font-size:13px;color:#c9d1d9;line-height:1.7;margin:8px 0">Cross-platform property management for landlords and tenants — leases, rent payments, maintenance, analytics dashboard with JWT security.</p>
+        <div style="font-family:'Segoe UI',sans-serif;font-size:12px;color:#8b949e;margin-bottom:10px"><b style="color:#00d4ff">Stack:</b> Flutter · Dart · Node.js · Express · MongoDB</div>
+        <a href="https://github.com/MAHABUB122003/DwellSync"><img src="https://img.shields.io/badge/View%20Repository-2b3137?style=for-the-badge&logo=github&logoColor=white"/></a>
+      </td>
+    </tr>
+  </table>
+
+  <!-- TOOLS & RESEARCH -->
+  <div style="background:#0d1117;border:1px solid #21262d;border-radius:10px;padding:14px;margin-top:10px">
+    <div style="font-family:'Segoe UI',sans-serif;font-weight:700;font-size:15px;color:#00d4ff;text-transform:uppercase;letter-spacing:1px">Security Tools &amp; Research</div>
+    <table style="width:100%;border:none;border-collapse:separate;border-spacing:8px 8px;margin-top:8px">
+      <tr>
+        <td width="50%" valign="top" style="background:#161b22;border-radius:8px;padding:12px">
+          <div style="font-family:'Segoe UI',sans-serif;font-weight:600;font-size:14px;color:#ffffff">MDIR <span style="color:#8b949e;font-weight:400;font-size:12px">· Directory &amp; Endpoint Discovery</span></div>
+          <p style="font-family:'Segoe UI',sans-serif;font-size:12.5px;color:#c9d1d9;line-height:1.6;margin:6px 0">High-speed async directory enumeration with multi-threaded scanning and HTML/JSON/TXT reports.</p>
+          <a href="https://github.com/MAHABUB122003/MDIR"><img src="https://img.shields.io/badge/View-2b3137?style=flat-square&logo=github&logoColor=white"/></a>
+        </td>
+        <td width="50%" valign="top" style="background:#161b22;border-radius:8px;padding:12px">
+          <div style="font-family:'Segoe UI',sans-serif;font-weight:600;font-size:14px;color:#ffffff">M403 <span style="color:#8b949e;font-weight:400;font-size:12px">· Access Control Testing</span></div>
+          <p style="font-family:'Segoe UI',sans-serif;font-size:12.5px;color:#c9d1d9;line-height:1.6;margin:6px 0">Advanced HTTP 403 bypass framework — header, path, encoding and cache techniques with Burp proxy support.</p>
+          <a href="https://github.com/MAHABUB122003/403-bypass-tool"><img src="https://img.shields.io/badge/View-2b3137?style=flat-square&logo=github&logoColor=white"/></a>
+        </td>
+      </tr>
+      <tr>
+        <td width="50%" valign="top" style="background:#161b22;border-radius:8px;padding:12px">
+          <div style="font-family:'Segoe UI',sans-serif;font-weight:600;font-size:14px;color:#ffffff">RealIP <span style="color:#8b949e;font-weight:400;font-size:12px">· Infrastructure Intelligence</span></div>
+          <p style="font-family:'Segoe UI',sans-serif;font-size:12.5px;color:#c9d1d9;line-height:1.6;margin:6px 0">Domain intelligence and CDN origin-finding — subdomain enumeration, DNS resolution, service discovery.</p>
+          <a href="https://github.com/MAHABUB122003/RealIP"><img src="https://img.shields.io/badge/View-2b3137?style=flat-square&logo=github&logoColor=white"/></a>
+        </td>
+        <td width="50%" valign="top" style="background:#161b22;border-radius:8px;padding:12px">
+          <div style="font-family:'Segoe UI',sans-serif;font-weight:600;font-size:14px;color:#ffffff">Payload Arsenal <span style="color:#8b949e;font-weight:400;font-size:12px">· 2026 xss/sqli/ssrf</span></div>
+          <p style="font-family:'Segoe UI',sans-serif;font-size:12.5px;color:#c9d1d9;line-height:1.6;margin:6px 0">30+ vulnerability classes with tested payloads — XSS, SQLi, SSRF, SSTI, JWT attacks, WAF bypass + manual test playbook.</p>
+          <a href="https://github.com/MAHABUB122003/Cyber_Security_Payload"><img src="https://img.shields.io/badge/View-2b3137?style=flat-square&logo=github&logoColor=white"/></a>
+        </td>
+      </tr>
+      <tr>
+        <td width="50%" valign="top" style="background:#161b22;border-radius:8px;padding:12px">
+          <div style="font-family:'Segoe UI',sans-serif;font-weight:600;font-size:14px;color:#ffffff">WordPress Malware Removal <span style="color:#8b949e;font-weight:400;font-size:12px">· Response Toolkit</span></div>
+          <p style="font-family:'Segoe UI',sans-serif;font-size:12.5px;color:#c9d1d9;line-height:1.6;margin:6px 0">Backdoor analysis, .htaccess hardening, security plugin stack, and WordPress incident-response playbook.</p>
+          <a href="https://github.com/MAHABUB122003/Wordpress-Malware-Removal"><img src="https://img.shields.io/badge/View-2b3137?style=flat-square&logo=github&logoColor=white"/></a>
+        </td>
+        <td width="50%" valign="top" style="background:#161b22;border-radius:8px;padding:12px">
+          <div style="font-family:'Segoe UI',sans-serif;font-weight:600;font-size:14px;color:#ffffff">ML for Cybersecurity <span style="color:#8b949e;font-weight:400;font-size:12px">· Threat Detection</span></div>
+          <p style="font-family:'Segoe UI',sans-serif;font-size:12.5px;color:#c9d1d9;line-height:1.6;margin:6px 0">Benchmarked XGBoost, LightGBM, Random Forest and SVM models for malware and phishing detection.</p>
+          <span style="color:#00d4ff;font-size:12px"><b>Scikit-learn · Pandas</b></span>
+        </td>
+      </tr>
+    </table>
+  </div>
 </div>
 
----
+<!-- ============ CERTIFICATIONS ============ -->
+<div style="background:#161b22;border:1px solid #21262d;border-radius:12px;padding:18px 22px;margin-bottom:16px">
 
-## Current Focus
+  <span style="font-family:'Segoe UI',sans-serif;font-weight:700;font-size:20px;color:#00D4FF;text-transform:uppercase;letter-spacing:2px">Certifications</span>
 
-Advanced AD Attack Simulations - Cloud Security (AWS/Azure) - AI/ML in Cybersecurity - CTF Competitions
+  <div style="margin-top:12px">
+    <img src="https://img.shields.io/badge/CyberSecLabs-Active%20Directory%20Pentesting-00A0D1?style=for-the-badge&logo=security&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/PortSwigger-Web%20Security%20Practitioner-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/TryHackMe-AD%20%2F%20Network%20Pentesting-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/Bug%20Bounty-Active%20Researcher-FF6B00?style=for-the-badge&logo=bugcrowd&logoColor=white"/>
+  </div>
 
----
-
-## Connect With Me
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/md-mahabubur-rahman-mahabub-41674b33a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/MAHABUB122003" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://mahabubur.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:rahmanmdmahabubur666@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://tryhackme.com/p/rahmanmdmahabubu" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
+  <table style="width:100%;border:none;margin-top:14px">
+    <tr>
+      <td width="50%" style="font-family:'Segoe UI',sans-serif;font-size:13px;color:#c9d1d9;line-height:2.2">
+        &#10003; Active Directory Penetration Testing — CyberSecLabs<br/>
+        &#10003; Web Security Academy Practitioner — PortSwigger<br/>
+        &#10003; Linux/Windows Privilege Escalation — TryHackMe
+      </td>
+      <td width="50%" style="font-family:'Segoe UI',sans-serif;font-size:13px;color:#c9d1d9;line-height:2.2">
+        &#10003; Active Vulnerability Researcher — Bug Bounty<br/>
+        &#10003; ML Practitioner — XGBoost, CatBoost, LightGBM<br/>
+        &#10003; CTF Competitor — Web, Binary Exploitation, Forensics
+      </td>
+    </tr>
+  </table>
 </div>
 
----
+<!-- ============ EDUCATION ============ -->
+<div style="background:#161b22;border:1px solid #21262d;border-radius:12px;padding:18px 22px;margin-bottom:16px">
 
-<div align="center">
-  <i>"Security is not a product, but a process." - Bruce Schneier</i>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Crafted%20by%20MD%20MAHABUBUR%20RAHMAN-FF6B35?style=for-the-badge&logo=github&logoColor=white" />
+  <span style="font-family:'Segoe UI',sans-serif;font-weight:700;font-size:20px;color:#00D4FF;text-transform:uppercase;letter-spacing:2px">Education</span>
+
+  <table style="width:100%;border:none;margin-top:10px">
+    <tr>
+      <td width="65%" valign="top">
+        <div style="font-family:'Segoe UI',sans-serif;font-weight:700;font-size:16px;color:#ffffff">B.Sc. in Computer Science &amp; Engineering</div>
+        <div style="font-family:'Segoe UI',sans-serif;font-size:14px;color:#8b949e;margin-top:4px">Shanto Mariam University of Creative Technology, Dhaka</div>
+        <div style="font-family:'Segoe UI',sans-serif;font-size:12px;color:#00d4ff;margin-top:4px">Expected Graduation: 2026</div>
+      </td>
+      <td width="35%" valign="top" style="background:#0d1117;border:1px solid #21262d;border-radius:8px;padding:12px">
+        <div style="font-family:'Segoe UI',sans-serif;font-weight:600;font-size:12px;color:#00d4ff;letter-spacing:1px">RELEVANT COURSEWORK</div>
+        <div style="font-family:'Segoe UI',sans-serif;font-size:12.5px;color:#c9d1d9;line-height:1.9;margin-top:6px">
+          Network Security · Cryptography · Secure SDLC<br/>
+          Digital Forensics · Machine Learning<br/>
+          Data Science · Statistics
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- ============ STATS ============ -->
+<div style="background:#161b22;border:1px solid #21262d;border-radius:12px;padding:18px 22px;margin-bottom:16px">
+
+  <span style="font-family:'Segoe UI',sans-serif;font-weight:700;font-size:20px;color:#00D4FF;text-transform:uppercase;letter-spacing:2px">GitHub Analytics</span>
+
+  <div align="center" style="margin-top:12px">
+    <img src="https://github-readme-stats.vercel.app/api?username=MAHABUB122003&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D4FF&icon_color=FF6B35&text_color=FFFFFF" alt="GitHub Stats" width="48%"/>&nbsp;
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MAHABUB122003&theme=radical&hide_border=true&background=0D1117&stroke=00D4FF&ring=FF6B35&fire=FF6B35&currStreakNum=00D4FF&currStreakLabel=00D4FF&sideNums=FFFFFF&sideLabels=FFFFFF" alt="GitHub Streak" width="48%"/>
+  </div>
+
+  <div align="center" style="margin-top:10px">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAHABUB122003&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF" alt="Top Languages" width="38%"/>&nbsp;
+    <img src="https://github-profile-trophy.vercel.app/?username=MAHABUB122003&theme=radical&row=2&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies" width="58%"/>
+  </div>
+
+  <div align="center" style="margin-top:10px">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MAHABUB122003&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D4FF&line=FF6B35&point=FFFFFF&area=true&area_color=00D4FF" alt="GitHub Activity Graph" width="100%"/>
+  </div>
+</div>
+
+<!-- ============ CONNECT ============ -->
+<div align="center" style="background:linear-gradient(135deg,#0D1117 0%,#001a2e 100%);border:1px solid #21262d;border-radius:16px;padding:24px 20px">
+
+  <span style="font-family:'Segoe UI',sans-serif;font-weight:700;font-size:20px;color:#00D4FF;text-transform:uppercase;letter-spacing:2px">Connect With Me</span>
+
+  <div style="margin-top:16px;font-family:'Segoe UI',sans-serif;font-size:14px;color:#8b949e;font-style:italic">
+    "Security is not a product, but a process." — Bruce Schneier
+  </div>
+
+  <div style="margin-top:16px;display:flex;justify-content:center;flex-wrap:wrap;gap:8px">
+    <a href="https://www.linkedin.com/in/md-mahabubur-rahman-mahabub-41674b33a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://github.com/MAHABUB122003" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+    <a href="https://mahabubur.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+    <a href="mailto:rahmanmdmahabubur666@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+    <a href="https://tryhackme.com/p/rahmanmdmahabubu" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/></a>
+  </div>
+
+  <div style="margin-top:18px;font-family:'Segoe UI',sans-serif;font-size:12px;color:#00d4ff;letter-spacing:2px;font-weight:600">
+    CRAFTED BY MD MAHABUBUR RAHMAN
+  </div>
 </div>
