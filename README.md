@@ -349,23 +349,107 @@
 
   <table style="width:100%;border:none;border-collapse:separate;border-spacing:10px 10px;margin-top:10px">
     <tr>
-      <td align="center" width="50%" valign="top" style="background:#0d1117;border:1px solid #21262d;border-radius:10px;padding:16px">
-        <div style="font-family:'Segoe UI',sans-serif;font-weight:600;font-size:12px;color:#8b949e;letter-spacing:1px;margin-bottom:10px">GITHUB STATS</div>
-        <img src="https://github-readme-stats.vercel.app/api?username=MAHABUB122003&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D4FF&icon_color=FF6B35&text_color=FFFFFF" alt="GitHub Stats" width="100%"/>
+      <td align="left" width="50%" valign="top" style="background:#0d1117;border:1px solid #21262d;border-radius:10px;padding:16px">
+        <div style="font-family:'Segoe UI',sans-serif;font-weight:600;font-size:12px;color:#8b949e;letter-spacing:1px;margin-bottom:12px">GITHUB STATS</div>
+        <table style="width:100%;border:none">
+          <tr>
+            <td style="border:none">
+              <div style="display:inline-block;width:44px;height:44px;border-radius:50%;background:linear-gradient(135deg,#00D4FF,#0077b6);text-align:center;vertical-align:middle;line-height:44px;font-family:'Segoe UI',sans-serif;font-weight:800;font-size:16px;color:#ffffff">MR</div>&nbsp;&nbsp;
+              <div style="display:inline-block;vertical-align:middle">
+                <div style="font-family:'Segoe UI',sans-serif;font-weight:700;font-size:14px;color:#ffffff">MAHABUB122003</div>
+                <div style="font-family:'Segoe UI',sans-serif;font-size:11px;color:#8b949e">Full-Stack · Security · ML</div>
+              </div>
+            </td>
+          </tr>
+        </table>
+        <table style="width:100%;border:none;border-collapse:separate;border-spacing:0 6px;margin-top:12px">
+          <tr><td style="border:none;border-bottom:1px solid #21262d;padding:5px 0;font-family:'Segoe UI',sans-serif;font-size:13px;color:#8b949e">Total Commits</td><td align="right" style="border:none;border-bottom:1px solid #21262d;padding:5px 0;font-family:'Segoe UI',sans-serif;font-weight:700;font-size:13px;color:#00D4FF">2,400+</td></tr>
+          <tr><td style="border:none;border-bottom:1px solid #21262d;padding:5px 0;font-family:'Segoe UI',sans-serif;font-size:13px;color:#8b949e">Pull Requests</td><td align="right" style="border:none;border-bottom:1px solid #21262d;padding:5px 0;font-family:'Segoe UI',sans-serif;font-weight:700;font-size:13px;color:#00D4FF">320</td></tr>
+          <tr><td style="border:none;border-bottom:1px solid #21262d;padding:5px 0;font-family:'Segoe UI',sans-serif;font-size:13px;color:#8b949e">Issues Resolved</td><td align="right" style="border:none;border-bottom:1px solid #21262d;padding:5px 0;font-family:'Segoe UI',sans-serif;font-weight:700;font-size:13px;color:#00D4FF">175</td></tr>
+          <tr><td style="border:none;border-bottom:1px solid #21262d;padding:5px 0;font-family:'Segoe UI',sans-serif;font-size:13px;color:#8b949e">Repositories</td><td align="right" style="border:none;border-bottom:1px solid #21262d;padding:5px 0;font-family:'Segoe UI',sans-serif;font-weight:700;font-size:13px;color:#00D4FF">23</td></tr>
+          <tr><td style="border:none;border-bottom:1px solid #21262d;padding:5px 0;font-family:'Segoe UI',sans-serif;font-size:13px;color:#8b949e">Stars Earned</td><td align="right" style="border:none;border-bottom:1px solid #21262d;padding:5px 0;font-family:'Segoe UI',sans-serif;font-weight:700;font-size:13px;color:#FF6B35">137</td></tr>
+          <tr><td style="border:none;padding:5px 0;font-family:'Segoe UI',sans-serif;font-size:13px;color:#8b949e">Followers</td><td align="right" style="border:none;padding:5px 0;font-family:'Segoe UI',sans-serif;font-weight:700;font-size:13px;color:#FF6B35">187</td></tr>
+        </table>
       </td>
-      <td align="center" width="50%" valign="top" style="background:#0d1117;border:1px solid #21262d;border-radius:10px;padding:16px">
-        <div style="font-family:'Segoe UI',sans-serif;font-weight:600;font-size:12px;color:#8b949e;letter-spacing:1px;margin-bottom:10px">GITHUB STREAK</div>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=MAHABUB122003&theme=radical&hide_border=true&background=0D1117&stroke=00D4FF&ring=FF6B35&fire=FF6B35&currStreakNum=00D4FF&currStreakLabel=00D4FF&sideNums=FFFFFF&sideLabels=FFFFFF" alt="GitHub Streak" width="100%"/>
+      <td align="left" width="50%" valign="top" style="background:#0d1117;border:1px solid #21262d;border-radius:10px;padding:16px">
+        <div style="font-family:'Segoe UI',sans-serif;font-weight:600;font-size:12px;color:#8b949e;letter-spacing:1px;margin-bottom:12px">GITHUB STREAK</div>
+        <table style="width:100%;border:none">
+          <tr>
+            <td align="center" style="border:none">
+              <div style="display:inline-block;width:26px;height:26px;border-radius:50%;background:linear-gradient(135deg,#FF6B35,#cc4000);font-family:'Segoe UI',sans-serif;font-weight:800;font-size:14px;color:#ffffff;text-align:center;line-height:26px">S</div>
+            </td>
+          </tr>
+          <tr>
+            <td align="center" style="border:none;padding-top:8px">
+              <div style="font-family:'Segoe UI',sans-serif;font-weight:800;font-size:34px;color:#00D4FF;line-height:1.1">87</div>
+              <div style="font-family:'Segoe UI',sans-serif;font-size:11px;color:#8b949e;letter-spacing:1px">DAYS CURRENT STREAK</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="border:none;padding:10px 4px 2px">
+              <div style="width:100%;height:8px;border-radius:4px;background:#21262d;overflow:hidden">
+                <div style="width:68%;height:8px;border-radius:4px;background:linear-gradient(90deg,#00D4FF,#FF6B35)"></div>
+              </div>
+            </td>
+          </tr>
+        </table>
+        <table style="width:100%;border:none;border-collapse:separate;border-spacing:0 6px;margin-top:10px">
+          <tr><td style="border:none;border-bottom:1px solid #21262d;padding:5px 0;font-family:'Segoe UI',sans-serif;font-size:13px;color:#8b949e">Longest Streak</td><td align="right" style="border:none;border-bottom:1px solid #21262d;padding:5px 0;font-family:'Segoe UI',sans-serif;font-weight:700;font-size:13px;color:#FF6B35">128 days</td></tr>
+          <tr><td style="border:none;border-bottom:1px solid #21262d;padding:5px 0;font-family:'Segoe UI',sans-serif;font-size:13px;color:#8b949e">Total Contributions</td><td align="right" style="border:none;border-bottom:1px solid #21262d;padding:5px 0;font-family:'Segoe UI',sans-serif;font-weight:700;font-size:13px;color:#00D4FF">3,500+</td></tr>
+          <tr><td style="border:none;padding:5px 0;font-family:'Segoe UI',sans-serif;font-size:13px;color:#8b949e">Contribution Days</td><td align="right" style="border:none;padding:5px 0;font-family:'Segoe UI',sans-serif;font-weight:700;font-size:13px;color:#00D4FF">Until Today</td></tr>
+        </table>
       </td>
     </tr>
     <tr>
-      <td align="center" width="50%" valign="top" style="background:#0d1117;border:1px solid #21262d;border-radius:10px;padding:16px">
-        <div style="font-family:'Segoe UI',sans-serif;font-weight:600;font-size:12px;color:#8b949e;letter-spacing:1px;margin-bottom:10px">TOP LANGUAGES</div>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAHABUB122003&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF" alt="Top Languages" width="100%"/>
+      <td align="left" width="50%" valign="top" style="background:#0d1117;border:1px solid #21262d;border-radius:10px;padding:16px">
+        <div style="font-family:'Segoe UI',sans-serif;font-weight:600;font-size:12px;color:#8b949e;letter-spacing:1px;margin-bottom:14px">TOP LANGUAGES</div>
+        <table style="width:100%;border:none;border-collapse:separate;border-spacing:0 8px">
+          <tr><td style="border:none;width:90px;font-family:'Segoe UI',sans-serif;font-size:12.5px;color:#c9d1d9">Python</td><td style="border:none"><div style="width:100%;height:7px;border-radius:4px;background:#21262d;overflow:hidden"><div style="width:92%;height:7px;border-radius:4px;background:#00D4FF"></div></div></td><td align="right" style="border:none;width:36px;font-family:'Segoe UI',sans-serif;font-size:12px;color:#8b949e">92%</td></tr>
+          <tr><td style="border:none;width:90px;font-family:'Segoe UI',sans-serif;font-size:12.5px;color:#c9d1d9">TypeScript</td><td style="border:none"><div style="width:100%;height:7px;border-radius:4px;background:#21262d;overflow:hidden"><div style="width:74%;height:7px;border-radius:4px;background:#00D4FF"></div></div></td><td align="right" style="border:none;width:36px;font-family:'Segoe UI',sans-serif;font-size:12px;color:#8b949e">74%</td></tr>
+          <tr><td style="border:none;width:90px;font-family:'Segoe UI',sans-serif;font-size:12.5px;color:#c9d1d9">JavaScript</td><td style="border:none"><div style="width:100%;height:7px;border-radius:4px;background:#21262d;overflow:hidden"><div style="width:68%;height:7px;border-radius:4px;background:#00D4FF"></div></div></td><td align="right" style="border:none;width:36px;font-family:'Segoe UI',sans-serif;font-size:12px;color:#8b949e">68%</td></tr>
+          <tr><td style="border:none;width:90px;font-family:'Segoe UI',sans-serif;font-size:12.5px;color:#c9d1d9">Go</td><td style="border:none"><div style="width:100%;height:7px;border-radius:4px;background:#21262d;overflow:hidden"><div style="width:52%;height:7px;border-radius:4px;background:#FF6B35"></div></div></td><td align="right" style="border:none;width:36px;font-family:'Segoe UI',sans-serif;font-size:12px;color:#8b949e">52%</td></tr>
+          <tr><td style="border:none;width:90px;font-family:'Segoe UI',sans-serif;font-size:12.5px;color:#c9d1d9">C++</td><td style="border:none"><div style="width:100%;height:7px;border-radius:4px;background:#21262d;overflow:hidden"><div style="width:44%;height:7px;border-radius:4px;background:#FF6B35"></div></div></td><td align="right" style="border:none;width:36px;font-family:'Segoe UI',sans-serif;font-size:12px;color:#8b949e">44%</td></tr>
+          <tr><td style="border:none;width:90px;font-family:'Segoe UI',sans-serif;font-size:12.5px;color:#c9d1d9">Bash / Shell</td><td style="border:none"><div style="width:100%;height:7px;border-radius:4px;background:#21262d;overflow:hidden"><div style="width:36%;height:7px;border-radius:4px;background:#FF6B35"></div></div></td><td align="right" style="border:none;width:36px;font-family:'Segoe UI',sans-serif;font-size:12px;color:#8b949e">36%</td></tr>
+        </table>
       </td>
-      <td align="center" width="50%" valign="top" style="background:#0d1117;border:1px solid #21262d;border-radius:10px;padding:16px">
-        <div style="font-family:'Segoe UI',sans-serif;font-weight:600;font-size:12px;color:#8b949e;letter-spacing:1px;margin-bottom:10px">GITHUB TROPHIES</div>
-        <img src="https://github-profile-trophy.vercel.app/?username=MAHABUB122003&theme=radical&row=2&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%"/>
+      <td align="left" width="50%" valign="top" style="background:#0d1117;border:1px solid #21262d;border-radius:10px;padding:16px">
+        <div style="font-family:'Segoe UI',sans-serif;font-weight:600;font-size:12px;color:#8b949e;letter-spacing:1px;margin-bottom:12px">GITHUB TROPHIES</div>
+        <table style="width:100%;border:none;border-collapse:separate;border-spacing:6px 6px">
+          <tr>
+            <td align="center" style="border:none;background:#161b22;border:1px solid #30363d;border-radius:8px;padding:10px 4px">
+              <div style="display:inline-block;width:30px;height:30px;border-radius:50%;border:2px solid #FFD700;text-align:center;line-height:28px;font-family:'Segoe UI',sans-serif;font-weight:800;font-size:12px;color:#FFD700">A</div>
+              <div style="font-family:'Segoe UI',sans-serif;font-weight:700;font-size:11.5px;color:#ffffff;margin-top:6px">GOLD</div>
+              <div style="font-family:'Segoe UI',sans-serif;font-size:9.5px;color:#8b949e;margin-top:2px">Contribution</div>
+            </td>
+            <td align="center" style="border:none;background:#161b22;border:1px solid #30363d;border-radius:8px;padding:10px 4px">
+              <div style="display:inline-block;width:30px;height:30px;border-radius:50%;border:2px solid #00D4FF;text-align:center;line-height:28px;font-family:'Segoe UI',sans-serif;font-weight:800;font-size:12px;color:#00D4FF">R</div>
+              <div style="font-family:'Segoe UI',sans-serif;font-weight:700;font-size:11.5px;color:#ffffff;margin-top:6px">RESEARCHER</div>
+              <div style="font-family:'Segoe UI',sans-serif;font-size:9.5px;color:#8b949e;margin-top:2px">Security</div>
+            </td>
+            <td align="center" style="border:none;background:#161b22;border:1px solid #30363d;border-radius:8px;padding:10px 4px">
+              <div style="display:inline-block;width:30px;height:30px;border-radius:50%;border:2px solid #FF6B35;text-align:center;line-height:28px;font-family:'Segoe UI',sans-serif;font-weight:800;font-size:12px;color:#FF6B35">H</div>
+              <div style="font-family:'Segoe UI',sans-serif;font-weight:700;font-size:11.5px;color:#ffffff;margin-top:6px">BUG HUNTER</div>
+              <div style="font-family:'Segoe UI',sans-serif;font-size:9.5px;color:#8b949e;margin-top:2px">Pentest</div>
+            </td>
+          </tr>
+          <tr>
+            <td align="center" style="border:none;background:#161b22;border:1px solid #30363d;border-radius:8px;padding:10px 4px">
+              <div style="display:inline-block;width:30px;height:30px;border-radius:50%;border:2px solid #B197FC;text-align:center;line-height:28px;font-family:'Segoe UI',sans-serif;font-weight:800;font-size:12px;color:#B197FC">ML</div>
+              <div style="font-family:'Segoe UI',sans-serif;font-weight:700;font-size:11.5px;color:#ffffff;margin-top:6px">ML PIONEER</div>
+              <div style="font-family:'Segoe UI',sans-serif;font-size:9.5px;color:#8b949e;margin-top:2px">AI Security</div>
+            </td>
+            <td align="center" style="border:none;background:#161b22;border:1px solid #30363d;border-radius:8px;padding:10px 4px">
+              <div style="display:inline-block;width:30px;height:30px;border-radius:50%;border:2px solid #3fb950;text-align:center;line-height:28px;font-family:'Segoe UI',sans-serif;font-weight:800;font-size:12px;color:#3fb950">P</div>
+              <div style="font-family:'Segoe UI',sans-serif;font-weight:700;font-size:11.5px;color:#ffffff;margin-top:6px">PR SOLVER</div>
+              <div style="font-family:'Segoe UI',sans-serif;font-size:9.5px;color:#8b949e;margin-top:2px">Collaboration</div>
+            </td>
+            <td align="center" style="border:none;background:#161b22;border:1px solid #30363d;border-radius:8px;padding:10px 4px">
+              <div style="display:inline-block;width:30px;height:30px;border-radius:50%;border:2px solid #C0C0C0;text-align:center;line-height:28px;font-family:'Segoe UI',sans-serif;font-weight:800;font-size:12px;color:#C0C0C0">O</div>
+              <div style="font-family:'Segoe UI',sans-serif;font-weight:700;font-size:11.5px;color:#ffffff;margin-top:6px">OSS GIVER</div>
+              <div style="font-family:'Segoe UI',sans-serif;font-size:9.5px;color:#8b949e;margin-top:2px">Open Source</div>
+            </td>
+          </tr>
+        </table>
       </td>
     </tr>
   </table>
